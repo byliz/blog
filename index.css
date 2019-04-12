@@ -802,7 +802,7 @@ div#post-header {
 
 div#post-header h1 {
 	font-size: 34pt;
-	text-align: left;
+	text-align: left; !important
 	margin-bottom: 30px;
 }
 div#content p.caption {
@@ -988,17 +988,18 @@ img.home-img.larger {
 	div#content {
 		width: 800px;
 		float: left;
-		padding: 0px 20px 0px 0px;
+		padding: 0px 20px 0px 20px;
 	}
 
 	div#main-area {
-		width: 75%;
+		width: 100%;
 		margin: 0 auto;
 		padding: 0;
 	}
 	div#aside {
 		float: left;
 		width: 300px;
+		margin: 0px 20px 0px 20px;
 	}
 	iframe.video {
 		margin-bottom: 20px;
@@ -1063,7 +1064,6 @@ img.home-img.larger {
 		display: block;
 	}
 	#contact {
-		width: 50%;
 		margin: 0 auto;
 		padding-top: 3%;
 		padding-bottom: 3%;

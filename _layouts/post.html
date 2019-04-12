@@ -62,7 +62,7 @@
       </div> 
     </div>
     
-      <h1 id="title"><a href="/">byLizLorena</a></h1>
+    <h1 id="title"><a href="/">byLizLorena</a></h1>
     
 
     <div id="top-menu-right">
@@ -103,17 +103,19 @@
     </div> 
   </div>
   <div id="menu">
-    
+
     {% include categories.html %}
 
   </div>
   <div class="container-fluid">
     <div id="main-area">
 
-     {% include post-header.html %}
-
+      <div id="aside">
+        {% include widget_about.html %}
+        {% include widget_contact.html %}
+      </div>
       <div id="content">
-
+        {% include post-header.html %}
         {{content}}
 
         {% include authorinfo.html %}
@@ -146,7 +148,6 @@ this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your pag
 
 <div id="aside">
   {% include widget_search.html %}
-  {% include widget_sitestatus.html %}
   {% include widget_latestposts.html %}
   {% include widget_archives.html %}
 </div>
@@ -158,7 +159,7 @@ this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your pag
 
 <div id="footer">
   <div id="footer-widgets">
-    
+
     {% include credits.html %}
     
   </div>
@@ -167,6 +168,6 @@ this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your pag
 
 <script id="dsq-count-scr" src="//byliz.disqus.com/count.js" async></script>  
 
-  <script src="/index.js"></script> 
+<script src="/index.js"></script> 
 </body>
 </html>
