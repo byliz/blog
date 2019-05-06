@@ -665,7 +665,7 @@ div#content ul li::before {
 	padding-bottom: 3%;
 }
 form::before {
-	content: "hello@byliz.org";
+	content: "hi@lizlorena.com";
 	display: block;
 	bottom: 0;
 	color: white;
