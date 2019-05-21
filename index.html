@@ -29,17 +29,30 @@ excerpt: "All blog posts sorted by date."
 
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | relative_url }}" class="next">
-      &laquo; Previous Posts 
+      <span>&laquo; Previous Posts</span> 
     </a>
   
   {% endif %}
 
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | relative_url }}" class="prev">
-      Later Posts &raquo;
+      <span style="float:right">Later Posts &raquo;</span>
     </a>
   
   {% endif %}
 </div>
 {% endif %}
 
+
+<!--For testing purposes
+<div class="pagination">
+
+    <a href="{{ paginator.next_page_path | relative_url }}" class="next">
+      <span>&laquo; Previous Posts</span> 
+    </a>
+  
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="prev">
+      <span style="float:right">Later Posts &raquo;</span>
+    </a>
+  
+</div>-->
