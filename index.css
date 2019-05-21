@@ -840,13 +840,15 @@ div.pagination {
 }
 div.pagination a.prev, div.pagination a.next {
 	width: 100%;
-	border: 1px solid #00b38b;
+	border: 1px solid #007bff;
 	padding: 10px;
-	color: #00b38b;
+	color: #007bff;
 	background-color: rgba(255,255,255,0.5);		
 }
 div.pagination a.prev:hover, div.pagination a.next:hover {
+	color: #00b38b;
 	border-color: #00b38b;
+	outline: rgb(0,0,0,0);
 }
 div.pagination a.prev:active, div.pagination a.next:active {
 	background-color: #00b38b;
