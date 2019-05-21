@@ -820,12 +820,11 @@ div#content p.caption {
 	padding: 10px;
 	color: gray;
 }
-div#content p.date, div#post-header p.date {
+div#post-header p.date, div#content p.date {
 	text-align: center;
 	font-family: 'Playfair Display', serif;
 	font-style: italic;
 	color: gray;
-	margin-bottom: -20px;
 }
 
 div#post-header p.date {
@@ -882,6 +881,10 @@ img.home-img.larger {
 }
 
 @media (min-width: 768px) {	
+
+	div#content p.date {
+		margin-bottom: -20px;
+	}
 
 	div.widget-title h3 {
 		font-size: 15pt;
