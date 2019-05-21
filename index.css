@@ -883,6 +883,11 @@ img.home-img.larger {
 
 @media (min-width: 768px) {	
 
+	div.pagination {
+		width: 75%;
+		margin: 0 auto;
+	}
+
 	div.pagination a.prev, div.pagination a.next {
 		font-size: 15pt;
 	}
@@ -1148,7 +1153,7 @@ img.home-img.larger {
 		text-align: center;
 	}
 	div#content div.post a h1 {
-		color: black;
+		/*color: black;*/
 		font-size: 36pt;
 	}
 	div.post p.excerpt {
@@ -1161,7 +1166,7 @@ img.home-img.larger {
 		margin-bottom: 0px;
 	}
 	div.post:hover img {
-		opacity: .3;
+		/*opacity: .3;*/
 	}
 	div.post:hover div.header {
 		display: block;
