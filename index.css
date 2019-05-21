@@ -56,8 +56,9 @@ div#content p, div#content ul li, div.widget-body p, div.widget-body h2, div.wid
 	font-family: Arial, sans-serif;
 }
 div.widget-body select {
-	font-size: 80%;
+	font-size: 12pt;
 	padding: 10px;
+	font-family: Arial, sans-serif;
 }
 
 div.post img {
@@ -83,7 +84,7 @@ div.post p.excerpt {
 	margin-right: 5px;
 }*/
 div#credits p {
-	font-size: 80%;
+	font-size: 10pt;
 	color: gray;
 	line-height: 30px;
 }
@@ -251,6 +252,7 @@ div#top-menu-left li, div#top-menu-right li, div#footer-widgets div.widget li {
 }
 div#top-menu-left li a, div#top-menu-right li a, div#menu li a {
 	display: block;
+	letter-spacing: 1px;
 }
 div#top-menu-left li a:hover, div#top-menu-right li a:hover {
 	color: white;
@@ -432,12 +434,9 @@ div.widget-body div.latest {
 	padding: 10px;
 	padding-bottom: 50px;
 }
-div.widget-body div.latest-post {
-	
-}
 div.widget-body div.latest h2 {
-	margin-top: -3px;
-	font-size: 80%;
+	margin-top: 0px;
+	font-size: 12pt;
 	line-height: 20px;
 }
 div.widget-body a:hover {
@@ -445,7 +444,7 @@ div.widget-body a:hover {
 }
 div.widget-body div.latest p {
 	color: gray;
-	font-size: 60%;
+	font-size: 10pt;
 	line-height: 20px;
 	margin-top: -10px;
 }
@@ -505,6 +504,7 @@ div.widget-title h3 {
 	letter-spacing: 1px;
 	margin-top: 10px;
 	text-align: center;
+	font-size: 12pt;
 }
 /*Footer*/
 div#footer {
@@ -687,10 +687,12 @@ form {
 label {
 	display: block;
 	margin-bottom: 5px;
+	font-size: 12pt;
+	letter-spacing: 1px;
 }
 label::after {
 	content: "*";
-	font-size: 16px;
+	font-size: 12pt;
 	color: red;
 }
 button[type=submit]:hover {
@@ -710,6 +712,8 @@ button[type=submit] {
 	border: 1px solid #007bff;
 	border-radius: 0px;
 	padding: 10px;
+	font-size: 12pt;
+	letter-spacing: 1px;
 }
 [type=text],
 [type=email],
@@ -721,10 +725,11 @@ textarea {
 	-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
 	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
 	padding: 5px;
-	font-size: 1.1rem;
+	font-size: 12pt;
 	margin-bottom: 1rem;
 	background-color: white;
 	color: black;
+	font-family: Arial, sans-serif;
 }
 [type=text]:hover,
 [type=email]:hover,
@@ -807,7 +812,7 @@ div#post-header h1 {
 }
 div#content p.caption {
 	text-align: center;
-	font-size: 70%;
+	font-size: 12pt;
 	width: 100%;
 	margin-top: 0px;
 	padding: 10px;
@@ -876,6 +881,34 @@ img.home-img.larger {
 
 @media (min-width: 768px) {	
 
+	div.widget-title h3 {
+		font-size: 15pt;
+	}
+
+	div.widget-body select {
+		font-size: 12pt;
+	}
+
+	div.widget-body div.latest p {
+		font-size: 12pt;
+	}
+
+	div.widget-body div.latest h2 {
+		font-size: 15pt;
+	}
+
+	label {
+		font-size: 15pt;
+	}
+
+	button[type=submit] {
+		font-size: 15pt;
+	}
+
+	[type=text], [type=email], textarea {
+		font-size: 12pt;
+	}
+
 	div#content p, div#content ul li, div.widget-body p, div.widget-body ul li {
 		font-size: 15pt;
 		text-align: left;
@@ -921,6 +954,7 @@ img.home-img.larger {
 		padding: 0px;
 		display: block;
 		position: absolute;
+		font-size: 12pt;
 	}
 	div#author-box img {
 		border-radius: 50%; 
@@ -968,10 +1002,13 @@ img.home-img.larger {
 		width: 500px;
 	}
 	div#menu ul {
-		width: 610px;
+		width: 660px;
 	}
 	div#credits {	
 		width: 100%;
+	}
+	div#credits p {
+		font-size: 12pt;
 	}
 	div#footer-widgets {
 		width: 100%;
