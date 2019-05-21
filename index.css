@@ -849,7 +849,8 @@ div.pagination a.prev, div.pagination a.next {
 	border: 1px solid #007bff;
 	padding: 10px;
 	color: #007bff;
-	background-color: rgba(255,255,255,0.5);		
+	background-color: rgba(255,255,255,0.5);	
+	font-size: 12pt;	
 }
 div.pagination a.prev:hover, div.pagination a.next:hover {
 	color: #00b38b;
@@ -881,6 +882,10 @@ img.home-img.larger {
 }
 
 @media (min-width: 768px) {	
+
+	div.pagination a.prev, div.pagination a.next {
+		font-size: 15pt;
+	}
 
 	div#content p.date {
 		margin-bottom: -20px;
