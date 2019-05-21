@@ -157,6 +157,7 @@ div#mobile-menu .dropdown-content li a {
 	
 	text-align: center;
 	width: 100%;
+	letter-spacing: 1px;
 }
 /*Main Menu*/
 div#menu {
@@ -346,7 +347,8 @@ div#drop-header {
 }
 div#drop-header ul li {
 	padding-top: 12px;
-	margin: 0px 10px 0px 10px;	
+	margin: 0px 10px 0px 10px;
+	letter-spacing: 1px;
 	/*float: left;*/
 }
 div#drop-header li a:hover {
