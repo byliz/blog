@@ -7,7 +7,7 @@ excerpt: "All blog posts sorted by date."
 <h1>All Posts</h1>
 
 {% for post in paginator.posts %}
-<div class="post main">
+<div class="post">
 	<img src="{{ site.baseurl }}/img/{{ post.img }}">
 	<div class="header">
 		<p class="categories"><span class="cat">In </span><a href="/{{ post.categories[0] }}">{{ post.categories[0] }}</a></p>

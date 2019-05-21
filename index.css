@@ -74,14 +74,14 @@ div.post p.excerpt {
 	text-align: justify; !important
 	margin-bottom: 30px;
 }
-first-letter, div.post p.excerpt::first-letter {
+/*first-letter, div.post p.excerpt::first-letter {
 	font-size: 350%;
 	font-family: 'Playfair Display', serif;
 	font-weight: normal;
 	float: left;
 	margin-top: 12px;
 	margin-right: 5px;
-}
+}*/
 div#credits p {
 	font-size: 80%;
 	color: gray;
@@ -818,6 +818,7 @@ div#content p.date, div#post-header p.date {
 	font-family: 'Playfair Display', serif;
 	font-style: italic;
 	color: gray;
+	margin-bottom: -20px;
 }
 
 div#post-header p.date {
@@ -825,6 +826,7 @@ div#post-header p.date {
 }
 
 div#content p.categories {
+	margin-top: 30px;
 	text-align: center;
 }
 
@@ -1071,25 +1073,27 @@ img.home-img.larger {
 	/*Gallery Style Blog without excerpt*/
 	
 	div.post {
-		float: left;
 		position: relative;
 		display: block;	
-		width: 380px;
+		width: 75%;
 		box-shadow: 0px 1px 5px rgba(0,0,0,0.1);
-		margin-bottom: 0px;
+		margin: 0 auto;
+		margin-top: 0px;
+		margin-bottom: 30px;
 	}
 
-	div.post img {
-		height: 380px;
-		width: 380px;
+	div#content div.post img {
+		height: 100%;
+		width: 89%;
 		display: block;
+		margin: 0 auto;
+		padding-top: 30px;
 		-webkit-transition: .5s; /* Safari */
 		transition: .5s;
+
 	}
 	div.post div.header {
-		margin-top: -340px;
-		position: absolute;
-		display: none;
+		display: block;
 	}
 	div.post a h2, div.post a p {
 		text-align: center;
@@ -1102,7 +1106,7 @@ img.home-img.larger {
 		padding: 30px;
 		text-align: justify; !important
 		width: 380px;
-		display: none;
+		display: block;
 		-webkit-transition: .5s; /* Safari */
 		transition: .5s;
 		margin-bottom: 0px;
