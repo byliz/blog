@@ -855,7 +855,8 @@ div#post-header p.categories {
 }
 /*Pagination*/
 div.pagination {
-	width: 100%;
+	width: 100%;	
+	margin-top: 30px;
 }
 div.pagination a.prev, div.pagination a.next {
 	width: 100%;
