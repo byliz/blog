@@ -444,11 +444,12 @@ div.widget-body div.latest h2 {
 div.widget-body a:hover {
 	color: #00b38b;
 }
-div.widget-body div.latest p {
+div.widget-body div.latest h6 {
 	color: gray;
 	font-size: 10pt;
 	line-height: 20px;
 	margin-top: -10px;
+	font-family: Arial, sans-serif;
 }
 div.widget-body img.latest {
 	float: left;
@@ -456,6 +457,14 @@ div.widget-body img.latest {
 	width: 100px;
 	height: 90px;
 }
+
+div.latest-post {
+	/*box-shadow: 0px 1px 5px rgba(0,0,0,0.1);
+	padding: 30px;
+	margin-top: 20px;
+	margin-top: 30px;*/
+}
+
 div.widget-body ul {
 	list-style: none;
 	list-style-type: none;
@@ -638,6 +647,12 @@ div#content p, div#content ul li, div.widget-body p, div.widget-body ul li {
 	font-size: 12pt;
 	text-align: left;
 }
+
+div.widget-body p {
+	box-shadow: 0px 1px 5px rgba(0,0,0,0.1);
+	padding: 20px;
+}
+
 div#content p {
 	margin-top: 20px;
 	line-height: 30px;
@@ -682,8 +697,7 @@ form::before {
 	animation: Gradient 5s ease infinite;
 }
 form {
-	border: 1px solid lightgray;
-	border-radius: 0px;
+	box-shadow: 0px 1px 5px rgba(0,0,0,0.1);
 	padding: 20px;
 }
 label {
@@ -904,7 +918,7 @@ img.home-img.larger {
 		font-size: 12pt;
 	}
 
-	div.widget-body div.latest p {
+	div.widget-body div.latest h6 {
 		font-size: 12pt;
 	}
 
