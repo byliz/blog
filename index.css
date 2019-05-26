@@ -657,6 +657,15 @@ div#content p, div.login2 p {
 	margin-top: 20px;
 	line-height: 30px;
 }
+
+div.login2 a:hover {
+	color: #00b38b;
+}
+
+a#creds {
+	color: #007bff;
+}
+
 div#content h2, div#content h3, div#content h4, div#content h5, div#content h6 {
 	margin-top: 30px;
 	margin-bottom: 30px;
@@ -905,7 +914,6 @@ img.home-img.larger {
 	}
 
 /*Modal Box*/
-
   div.modal, div.modal2 {
    display: none; /* Hidden by default */
    position: fixed; /* Stay in place */
