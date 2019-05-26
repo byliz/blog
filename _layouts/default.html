@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123712244-7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123712244-7"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-  gtag('config', 'UA-123712244-7');
-</script>
+    gtag('config', 'UA-123712244-7');
+  </script>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -108,22 +108,32 @@
   </div>
   <div class="container-fluid">
     <div id="main-area">
-      <div id="aside">
-        {% include widget_about.html %}
-        {% include widget_contact.html %}
+
+      <div class="move">
+        <div id="aside">
+          {% include widget_about.html %}
+          {% include widget_contact.html %}
+        </div>
       </div>
 
       <div id="content">
         <div id="center">
-        {{content}}
-      </div>
+          {{content}}
+        </div>
       </div>
       <div id="aside">
+
         {% include widget_search.html %}
         {% include widget_latestposts.html %}
         {% include widget_archives.html %}
         {% include widget_stats.html %}
         {% include widget_support.html %}
+
+        <div class="move">
+          {% include widget_about.html %}
+          {% include widget_contact.html %}
+        </div>
+        
       </div>
       
     </div>
