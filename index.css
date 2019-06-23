@@ -901,6 +901,7 @@ iframe.video {
 	margin-bottom: 30px;
 	height: 100%;
 	width: 100%;
+	border: 1px solid #007bff;
 }
 img.home-img.larger {
 	border-radius: 0px;
@@ -1157,8 +1158,8 @@ div.modal.show, div.modal2.show, nav.nav-menu.show {
 	}
 	iframe.video {
 		margin-bottom: 20px;
-		height: 439px;
-		width: 780px;
+		height: 405px;
+		width: 718px;
 	}
 	/*Selling*/
 	div#sell img {
