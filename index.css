@@ -857,6 +857,7 @@ div#post-header p.date {
 div#content p.categories {
 	margin-top: 30px;
 	text-align: center;
+	padding-top: 30px;
 }
 
 div#post-header p.categories {
