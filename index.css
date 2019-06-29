@@ -850,6 +850,7 @@ div#content p.caption {
 	padding: 10px;
 	color: gray;
 }
+
 div#post-header p.date, div#content p.date {
 	text-align: center;
 	font-family: 'Playfair Display', serif;
@@ -859,6 +860,12 @@ div#post-header p.date, div#content p.date {
 
 div#post-header p.date {
 	text-align: left;
+}
+
+div#post-header p.summary {
+	font-family: 'Playfair Display', serif;
+	font-style: italic;
+	color: black;
 }
 
 div#content p.categories {
