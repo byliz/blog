@@ -13,12 +13,12 @@ tags:
   - gta
   - shootings
   - mass murder
-excerpt: "This timeline is meant to document notable and obscure video games that give the player the ability to kill innocents and analyze why and how the feature is implemented throughout the years."
+excerpt: "This timeline is meant to document notable and obscure video games that give the player the ability to kill innocents and analyze why and how the feature is implemented throughout the years. It was made for a project in my Social Impacts of Video Games course."
 img: gametimeline.png
 ---
 
 <img src="/img/gametimeline.png" class="img-fluid">
-<p class="caption">Click <a href="https://www.tiki-toki.com/timeline/entry/1203969/Video-Games-Where-Players-Kill-Innocents/" target="_blank">here</a> to be taken to the timeline on Tiki-toki.com.</p>
+<p class="caption">Click <a href="https://www.tiki-toki.com/timeline/entry/1203969/Video-Games-Where-Players-Kill-Innocents/" target="_blank">here</a> to be taken to the timeline on Tiki-toki.com. To see the rest of my projects for this class click <a href="http://lizsivg.carbonmade.com" target="_blank">here</a>.</p>
 
 <p><first-letter>T</first-letter>his timeline is meant to document notable and obscure video games that give the player the ability to kill innocents and analyze why and how the feature is implemented throughout the years.</p>
 
@@ -35,4 +35,10 @@ img: gametimeline.png
 <ul>
 	<li>All resources in timeline.</li>
 	<li>Software used: <a href="https://tiki-toki.com" target="_blank">Tiki-toki.com</a></li>
+</ul>
+
+<h2>Edits</h2>
+
+<ul>
+  <li>June 30, 2019: Added link to my course portfolio.</li>
 </ul>
