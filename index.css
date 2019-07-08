@@ -61,7 +61,7 @@ div.widget-body select {
 	font-family: Arial, sans-serif;
 }
 
-.post:hover, div.widget-body p:hover, div.widget-body form:hover {
+div.widget-body p:hover, div.widget-body form:hover {
 	box-shadow: 0px 1px 11px rgba(0,0,0,0.3);
 }
 
@@ -1322,6 +1322,10 @@ div#loginsection {
 div#registersection {
   float: right;
   margin: 0px;
+}
+
+.post:hover {
+	box-shadow: 0px 1px 11px rgba(0,0,0,0.3);
 }
 
 }
