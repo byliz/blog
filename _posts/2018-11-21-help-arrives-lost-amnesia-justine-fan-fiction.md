@@ -37,7 +37,7 @@ img: Naked_Eyes_LP.jpg
 
 <p>One explanation I have is that I just liked the song, and I thought it would take a while for the characters to forget their trauma. Another explanation could be that the name of the band is Naked Eyes, and the suitors don't have eyes. While writing this post, I noticed that the North American and Japanese cover art for the album that this song is in, "Burning Bridges," has two beautiful disembodied green eyes staring back at the viewer. Suddenly I am reminded how some coincidences in writing stories can seem to have more meaning than they really do.</p>
 
-<img src="/img/Naked_Eyes_LP.jpg" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/Naked_Eyes_LP.jpg" alt="" class="img-fluid"/>
 
 <h4>The Crazy Story of How I Lost it</h4>
 
@@ -47,7 +47,7 @@ img: Naked_Eyes_LP.jpg
 
 <p>So yeah, basically I'm screwed. I really miss this fan fiction, and I hope someday I find it online somewhere. I have already tried for a whole day, so I ask you that if you or anyone you know somehow downloaded a copy of a weird fan fiction called "Help Arrives", please contact me on Twitter or Discord about it. My Twitter handle is <a href="https://twitter.com/smugcroc" target="_blank">smugcroc</a>, and my Discord username is:</p>
 
-<img src="/img/discord.png" class="img-fluid" style="width:100px;">
+<img src="https://lizlorena.com/img/discord.png" class="img-fluid" style="width:100px;">
 
 <h4>Resources</h4>
 

@@ -19,7 +19,7 @@ img: portfoliomid2018desktop.png
 
 <h4 id="third-portfolio">Version 3.1.0 - Early 2018</h4>
 
-<img src="/img/thirdportfolio.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/thirdportfolio.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://byliz.github.io/portfolio-2018" target="_blank">Visit Site</a> • <a href="https://github.com/byliz/portfolio-2018" target="_blank">Source Code</a></p>
 
@@ -27,21 +27,21 @@ img: portfoliomid2018desktop.png
 
 <p>I was really excited when I made this site, so here are some GIFs of me showing it off in its first complete look. I only picked that shade of green because it matched the foliage in that photo, okay!</p>
 
-<img src="/img/newportfoliositemobile.gif" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/newportfoliositemobile.gif" alt="" class="img-fluid"/>
 
 <p class="caption">The work page made me especially happy.</p>
 
-<img src="/img/TAGS.gif" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/TAGS.gif" alt="" class="img-fluid"/>
 
 <p class="caption">Freaking out because I figured out tags</p>
 
 <h4 id="fourth-portfolio">Version 3.2.0 - Mid 2018</h4>
 
-<img src="/img/portfoliomid2018mobile.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/portfoliomid2018mobile.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="http://byliz.github.io" target="_blank">Visit Site</a>  • <a href="https://github.com/byliz/byliz.github.io">Source Code</a></p>
 
-<img src="/img/portfoliomid2018desktop.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/portfoliomid2018desktop.png" alt="" class="img-fluid"/>
 
 <p class="caption">Yes, I made these just for this post.</p>
 
@@ -49,11 +49,11 @@ img: portfoliomid2018desktop.png
 
 <p>Here's the mobile site in action:</p>
 
-<img src="/img/portfolio2018onmobile.gif" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/portfolio2018onmobile.gif" alt="" class="img-fluid"/>
 
 <p>Here's a <a href="https://addons.mozilla.org/en-US/firefox/addon/fireshot/" target="_blank">screenshot</a> of the entire landing page with graphics of all my best projects thus far:</p>
 
-<img src="/img/portfoliobylizorg.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/portfoliobylizorg.png" alt="" class="img-fluid"/>
 
 <h3>The Future</h3>
 

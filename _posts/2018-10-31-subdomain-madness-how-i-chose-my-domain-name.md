@@ -5,11 +5,11 @@ date: 2018-10-31
 categories: [websites]
 comments: true
 tags: [branding, domain, name, namecheap, naming, portfolio, redirection, subdomain, tips, website creation, websites]
-excerpt: "Your website's domain is very important. You should make sure that it aligns with your brand and values, but it's even more important that you are happy with it because it's going to be something that you will always be seeing and using. In this post, I'm going to tell you the story behind my website's domain name ByLiz.org."
+excerpt: "Your website's domain is very important. You should make sure that it aligns with your brand and values, but it's even more important that you are happy with it because it's going to be something that you will always be seeing and using. In this post, I'm going to tell you the story behind my website's domain name SmugCroc.com."
 img: subdomainarticle.png
 ---
 
-<p><first-letter>Y</first-letter>our website's domain is very important. You should make sure that it aligns with your brand and values, but it's even more important that you are happy with it because it's going to be something that you will always be seeing and using. In this post, I'm going to tell you the story behind my website's domain name <em>ByLiz.org</em>.</p>
+<p><first-letter>Y</first-letter>our website's domain is very important. You should make sure that it aligns with your brand and values, but it's even more important that you are happy with it because it's going to be something that you will always be seeing and using. In this post, I'm going to tell you the story behind my website's domain name <em>SmugCroc.com</em>.</p>
 
 <h3>What About My Name?</h3>
 
@@ -33,11 +33,11 @@ img: subdomainarticle.png
 
 <p>One of the best parts about this domain is that any subdomain looks <em>good</em>.</p>
 
-<img src="/img/subdomains.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/subdomains.png" alt="" class="img-fluid"/>
 
 <p class="caption">I AM INSANE</p>
 
-<p>As you can see, I went kind of crazy assigning different subdomains to my profiles to make them faster to type. <a href="http://art.byliz.org" target="_blank">Art.ByLiz.org</a> redirects to my DeviantArt profile, <a href="http://yt.byliz.org" target="_blank">YT.ByLiz.org</a> redirects to my YouTube channel, <a href="http://links.byliz.org" target="_blank">Links.ByLiz.org</a> redirects to my profile links page I made myself, and so on. This is mainly what I love about my domain. Each of these addresses just roll off the tongue easily (except for the "dot" that I always have to say after the first segment), and they remind me that I have done a lot of things. I make websites, I make games, I make art, and the world knows that just with a name.</p>
+<p>As you can see, I went kind of crazy assigning different subdomains to my profiles to make them faster to type. <a href="http://art.SmugCroc.com" target="_blank">Art.SmugCroc.com</a> redirects to my DeviantArt profile, <a href="http://yt.SmugCroc.com" target="_blank">YT.SmugCroc.com</a> redirects to my YouTube channel, <a href="http://links.smugcroc.com" target="_blank">Links.SmugCroc.com</a> redirects to my profile links page I made myself, and so on. This is mainly what I love about my domain. Each of these addresses just roll off the tongue easily (except for the "dot" that I always have to say after the first segment), and they remind me that I have done a lot of things. I make websites, I make games, I make art, and the world knows that just with a name.</p>
 
 <h4>References</h4>
 
@@ -45,4 +45,10 @@ img: subdomainarticle.png
 
 <ul>
 	<li><a href="http://namecheap.com" target="_blank">NameCheap.com</a></li>
+</ul>
+
+<h4>Edits:</h4>
+
+<ul>
+	<li>July 20, 2019: Changed my blog's domain to SmugCroc.com!</li>
 </ul>

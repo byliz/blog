@@ -15,7 +15,7 @@ img: domenico-loia-604718-unsplash.jpg
 
 <h3>UserTesting.com</h3>
 
-<img src="/img/usertestinglogo.png" alt="" class="img-fluid leftfloat">
+<img src="https://lizlorena.com/img/usertestinglogo.png" alt="" class="img-fluid leftfloat">
 
 <p><a href="https://usertesting.com" target="_blank">UserTesting</a> is my favorite on this list, and I have been using it on and off for the past two years. To work as a beta tester on UserTesting, you must install the UserTesting screencasting software onto your computer and pass a short test that demonstrates that you have a good microphone, working internet, a browser and operating system that can handle the tests, and that you are capable of thinking out loud to give a clear and thorough review. Once you pass the initial test, you will receive a rating out of five stars. Your rating is the average of the ratings you receive on your last 12 tests, and the higher your rating, the more test offers you will receive on PC and mobile if you download their mobile app. Payments are sent to your PayPal a week from the day the test is completed.&nbsp;</p>
 
@@ -39,7 +39,7 @@ img: domenico-loia-604718-unsplash.jpg
 
 <h3>Amazon Mechanical Turk</h3>
 
-<img src="/img/amazonturklogo.png" alt="" class="img-fluid rightfloat"/>
+<img src="https://lizlorena.com/img/amazonturklogo.png" alt="" class="img-fluid rightfloat"/>
 
 <p>I've been curious about <a href="https://www.mturk.com/" target="_blank">Amazon's Mechanical Turk</a> (also known as Mturk) for years, and this year I finally could join it. This crowdsourcing platform allows "Workers" to fulfill any number of "Hits" (tasks) ranging in size and difficulty for "Requesters" (businesses) from the comfort of their homes for pay ranging from a few cents to a few dollars. Earnings can be transferred to your Amazon Payments account (and from there to your bank account) or Amazon.com gift card balance within 24 hours.</p>
 
@@ -65,7 +65,7 @@ img: domenico-loia-604718-unsplash.jpg
 <ul>
 	<li><a href="https://usertesting.com" target="_blank">UserTesting.com</a></li>
 	<li><a href="https://www.mturk.com/" target="_blank">Amazon Mechanical Turk</a> (Mturk)</li>
-	<li><a href="https://www.byliz.org/blog/posts/the-best-sites-to-make-real-money-online-part-2">Part 2 in this series</a></li>
+	<li><a href="{{ site.url }}/posts/the-best-sites-to-make-real-money-online-part-2">Part 2 in this series</a></li>
 </ul>
 
 <p>Image credits:</p>

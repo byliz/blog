@@ -21,7 +21,7 @@ img: wordpressbeginningsicon.png
 
 <h4>Version 1.1.0 - Early 2017</h4>
 
-<img src="/img/wpportfolio1.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/wpportfolio1.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://wordpress.org/themes/jinn/" target="_blank">View jinn Theme</a></p>
 
@@ -31,7 +31,7 @@ img: wordpressbeginningsicon.png
 
 <h4>Version 1.1.5 - Early 2017</h4>
 
-<img src="/img/artportfoliositescreenshot.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/artportfoliositescreenshot.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://wordpress.org/themes/dara/" target="_blank">View Dara Theme</a></p>
 
@@ -39,23 +39,23 @@ img: wordpressbeginningsicon.png
 
 <h4>Version 1.2.0 - Early 2017</h4>
 
-<img src="/img/PortfolioSite.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/PortfolioSite.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a rel="noreferrer noopener" href="https://wordpress.org/themes/simplenotes/" target="_blank">View Simplenotes Theme</a></p>
 
 <p>Soon, however, I went through a phase where I wanted a site that was as minimalistic as possible because I thought that was "in". I found this very elegant theme called <a href="https://wordpress.org/themes/simplenotes/" target="_blank">Simplenotes</a> by <a href="https://www.behance.net/carla-izumi-bamford" target="_blank">Carla Izumi Bamford</a>, who has many other interesting minimalist designs I recommend checking out for inspiration. Unfortunately her website appears to have gone down shortly before me writing this post, and it was one of the first to inspire me to try web development. I don't know what the situation is, but hopefully she comes back to continue sharing her work with us!</p>
 
-<img src="/img/PortfolioSite3.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/PortfolioSite3.png" alt="" class="img-fluid"/>
 
 <p class="caption">My old about page, which I totally stole from Carla</p>
 
-<img src="/img/PortfolioSite2.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/PortfolioSite2.png" alt="" class="img-fluid"/>
 
 <p class="caption">Experimenting with the Juicer social media feed plugin</p>
 
 <h4>Version 1.3.0 - Mid 2017</h4>
 
-<img src="/img/wpportfolio3gk.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/wpportfolio3gk.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://wordpress.org/themes/gk-portfolio/" target="_blank">View GK Portfolio Theme</a></p>
 

@@ -18,7 +18,7 @@ excerpt: "This was a multi-media blog project for my Self and Society course in 
 img: tcc.png
 ---
 
-<img src="/img/tcc.png" class="img-fluid">
+<img src="https://lizlorena.com/img/tcc.png" class="img-fluid">
 <!--<p class="caption"></p>-->
 
 <p>Read the Tumblr blog <a href="http://lor-dcim.tumblr.com" target="_blank">here</a>.</p>

@@ -15,7 +15,7 @@ img: mmorpgs.png
 ---
 
 <!--
-<img src="/img/gametimeline.png" class="img-fluid">
+<img src="https://lizlorena.com/img/gametimeline.png" class="img-fluid">
 <p class="caption">ouo</p>
 -->
 

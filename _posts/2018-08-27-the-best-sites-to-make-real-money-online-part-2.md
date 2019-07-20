@@ -15,7 +15,7 @@ img: kevin-bhagat-343433-unsplash.jpg
 
 <h3>Rev.com</h3>
 
-<img src="/img/revlogo.png" alt="" class="img-fluid rightfloat">
+<img src="https://lizlorena.com/img/revlogo.png" alt="" class="img-fluid rightfloat">
 
 <p>I can't overstate how much I love Rev right now. <a href="http://rev.com/freelancers" target="_blank">Rev.com</a> has four different freelance positions that all allow you to work from home: transcription, captioning, subtitling, and translating. In order to work as a freelancer on Rev.com, you must go through a lengthy application process for the positions you want to have individually. Transcriptionists must type out English transcriptions of prerecorded audio files or videos. Captioners must type out and time English closed captions for video or audio files. Subtitlers have similar responsibilities as captioners, but their focus is on translating from English to other languages, and positions vary based on what language Rev.com is looking for. Lastly, translators translate written documents to and from English. Job payment depends on the amount of cents per minute of the audio or video recording for transcriptionists, captioners, and subtitlers, but for translaters are paid depending on the amount of cents per word to translate.</p>
 
@@ -39,7 +39,7 @@ img: kevin-bhagat-343433-unsplash.jpg
 
 <h3>Appen Global</h3>
 
-<img src="/img/appenlogo.png" alt="" class="img-fluid leftfloat">
+<img src="https://lizlorena.com/img/appenlogo.png" alt="" class="img-fluid leftfloat">
 
 <p><a href="https://join.appen.com/" target="_blank">Appen</a> is different from the other three jobs on this list because its most popular work from home positions are part-time jobs rather than freelance. This means that you will have a set schedule you must abide by in order to work in several positions. The most popular remote positions at Appen seem to be the web search evaluator and the social media evaluator, the latter being the position I myself have held. I cannot go over the details of these positions, as a lot of what you do at Appen is confidential, but just know that the job postings typically describe all you need in order to be considered for the job and receive an Appen Global account. Additionally, there is usually a lengthy qualification process you must pass before you are allowed to work on a project.</p>
 
@@ -73,7 +73,7 @@ img: kevin-bhagat-343433-unsplash.jpg
 
 <ul>
 	<li><a href="https://www.rev.com/blog/productivity-tips-full-time-revver/" target="_blank">"Productivity Tips from a Full-Time Revver with a $500 Weekly Goal"</a> by Jacob Olsen on Rev.com</li>
-	<li><a href="https://www.byliz.org/blog/posts/the-best-sites-to-make-real-money-online-part-1">"The Best Sites to Make Real Money Online [Part 1]"</a> by Liz on ByLiz.org</li>
+	<li><a href="{{ site.url }}/posts/the-best-sites-to-make-real-money-online-part-1">"The Best Sites to Make Real Money Online [Part 1]"</a> by Liz on ByLiz.org</li>
 </ul>
 
 <p>Image credits:</p>
