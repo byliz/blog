@@ -44,7 +44,7 @@ img: gametimeline.png
 
 <h2>Super Secret Indie Video Game</h2>
 
-<p>The first idea that my boyfriend and I came up with is cancelled for now, but we have many more ideas were that one came from. At first we wanted to make some of our own games as practice separately, but we're thinking of working together on something instead because we find it much easier to keep ourselves focused if we work in pairs, since we'll treat this as a kind of hobby thing that could blossom into something successful. It's also much easier if we split the work. We are still considering names, but you can easily find his profile from my <a href="https://twitter.com/smugcroc" target="_blank">Twitter bio</a>!</p>
+<p>The first idea that my boyfriend and I came up with is cancelled for now, but we have many more ideas were that one came from. At first we wanted to make some of our own games as practice separately, but we're thinking of working together on something instead because we find it much easier to keep ourselves focused if we work in pairs, since we'll treat this as a kind of hobby thing that could blossom into something successful. It's also much easier if we split the work.</p>
 
 <h2>Conclusion</h2>
 
