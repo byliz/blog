@@ -45,7 +45,7 @@ img: Naked_Eyes_LP.jpg
 
 <p>To add insult to injury, I had asked Archive.org to exclude my old DeviantArt profiles from the Wayback Machine because I was embarrassed by the content on there, effectively destroying any chance I had of ever retrieving my fan fiction. I also thought I had given my boyfriend a copy of my fan fiction to read, but I had actually deleted it accidentally.</p>
 
-<p>So yeah, basically I'm screwed. I really miss this fan fiction, and I hope someday I find it online somewhere. I have already tried for a whole day, so I ask you that if you or anyone you know somehow downloaded a copy of a weird fan fiction called "Help Arrives", please contact me on Twitter or Discord about it. My Twitter handle is <a href="https://twitter.com/smugcroc" target="_blank">smugcroc</a>, and my Discord username is:</p>
+<p>So yeah, basically I'm screwed. I really miss this fan fiction, and I hope someday I find it online somewhere. I have already tried for a whole day, so I ask you that if you or anyone you know somehow downloaded a copy of a weird fan fiction called "Help Arrives", please contact me on Twitter or Discord about it. My Twitter handle is <a href="https://twitter.com/lizlorenadotcom" target="_blank">LizLorenadotcom</a>, and my Discord username is:</p>
 
 <img src="https://lizlorena.com/img/discord.png" class="img-fluid" style="width:100px;">
 
