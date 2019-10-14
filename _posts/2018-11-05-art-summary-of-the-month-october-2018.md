@@ -81,12 +81,6 @@ img: loris-shy-bg.png
 
 <p>At this point, I realized #Inktober was eating into my time and taking it away from me working on my class midterm project. I decided that instead I would start using digital again because I truly missed it and began working on an animatic as an introduction to my game and to be used in my presentation of it. These are my favorite frames from what I was able to finish.</p>
 
-<h4>Tinker Carva the Cabbit</h4>
-
-<img src="https://lizlorena.com/img/TinkerCarvaBunny.png" alt="" class="img-fluid"/>
-
-<p>The last piece I completed this month was this slick redesign of my persona Tinker with rabbit ears instead of cat ears. The main ways in which she differs from her previous design from <a href="{{ site.url }}/posts/art-summary-of-the-month-1">last month</a> are that she has rabbit ears instead of cat ears, and her hair is short and white because I fell totally in love with white hair recently <a href="https://blacksurvival.gamepedia.com/Jackie" target="_blank">for some reason</a>.</p>
-
 <h4>Resources</h4>
 
 <p>Painting tools:</p>
