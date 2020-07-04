@@ -9,7 +9,7 @@
             {% assign prevyear = post.previous.date | date: "%B %Y" %}
             {% assign counter = counter | plus: 1 %}
             {% if thisyear != prevyear %}
-            <option value="/archives/#{{ post.date | date:"%B %Y" }}">{{ thisyear }} ({{ counter }})</a></option>
+            <option value="https://cozymaus.com/old-blog/archives/#{{ post.date | date:"%B %Y" }}">{{ thisyear }} ({{ counter }})</a></option>
             {% assign counter = 0 %}
             {% endif %}
             {% endfor %}
