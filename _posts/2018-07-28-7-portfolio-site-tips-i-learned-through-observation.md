@@ -17,19 +17,19 @@ img: snapbythree-my-297409-unsplashedited.jpg
 
 <p>If you're not very well known, chances are your portfolio won't be getting a lot of traffic, and you don't need premium support. There are a few free hosting options out there that can be highly customized to suit various needs. Some free hosts I have used that can be customized professionally are <a href="https://pages.github.com" target="_blank">Github Pages</a>, <a href="http://x10hosting.com" target="_blank">x10Hosting</a>, and <a href="https://tumblr.com" target="_blank">Tumblr</a>. Note that these all have their limitations, but these can be worked around with some creative thinking.</p>
 
-<img src="https://lizlorena.com/img/GithubPagesPage.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/GithubPagesPage.png" alt="" class="img-fluid"/>
 
 <p class="caption">The Github Pages landing page</p>
 
 <p>Github Pages is great if you want to make a static blog portfolio, and although the setup for more advanced customization is a bit involved and requires some web programming experience and knowledge of their <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> site-generator, there are tools out there to make the set-up a little easier.</p>
 
-<img src="https://lizlorena.com/img/x10Hostingwebsite.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/x10Hostingwebsite.png" alt="" class="img-fluid"/>
 
 <p class="caption">The x10Hosting.com homepage</p>
 
 <p>x10Hosting, on the other hand, is both great for your own coded websites or an installed WordPress site since this host, unlike Github, also supports non-static languages like PHP. Its domain capabilities are worse than those of Github, and you have to sign in every month to avoid having your free account terminated, but nevertheless it's great for hosting WordPress sites and other code that is dependent on PHP so long as they don't receive a lot of traffic.</p>
 
-<img src="https://lizlorena.com/img/Tumblrwebsite.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/Tumblrwebsite.png" alt="" class="img-fluid"/>
 
 <p class="caption">The Tumblr.com homepage</p>
 
@@ -37,7 +37,7 @@ img: snapbythree-my-297409-unsplashedited.jpg
 
 <h4>Tip #2: Purchase a .com domain from a reputable domain name registrar.</h4>
 
-<img src="https://lizlorena.com/img/Namecheapwebsite.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/Namecheapwebsite.png" alt="" class="img-fluid"/>
 
 <p class="caption">The Namecheap.com homepage</p>
 
@@ -45,41 +45,41 @@ img: snapbythree-my-297409-unsplashedited.jpg
 
 <h4>Tip #3: Pick a professional yet memorable domain name.</h4>
 
-<img src="https://lizlorena.com/img/Simplebitswebsite.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/Simplebitswebsite.png" alt="" class="img-fluid"/>
 
 <p class="caption">Portfolio of designer and entrepreneur <a href="http://simplebits.com" target="_blank">Dan Cederholm</a></p>
 
-<p>You may have heard that you should make your domain your first and last name, but this might not always be the best idea if that's not what people know you as professionally. Your real name doesn't have to be your professional name for various reasons: it could be difficult to read or hard to spell. You want to pick something memorable, too. If you don't plan on using your real name professionally, pick a new name and make sure you stick with it on every professional platform. You could also do this and pick a catchy name that describes the work you do. There are many examples of this online, so I suggest you take a look at some for inspiration. Two examples would be the website of one of the co-founders of Dribbble who chose&nbsp;<a href="http://simplebits.com" target="_blank">SimbleBits.com</a>&nbsp;and the website of one of the creators of the video game <em>Night in the Woods</em> who chose&nbsp;<a href="http://bombfalls.com" target="_blank">BombsFall.com</a>. If your domain isn't available as a .com, consider getting a .net or a .org domain, as they are the second highest-ranking on search engines. An example of a well-visited website with one of these TLDs would be the website of the cartoonist and illustrator famous for the StupidFox comic who chose&nbsp;<a href="http://eychan.org" target="_blank">eychan.org</a>.</p>
+<p>You may have heard that you should make your domain your first and last name, but this might not always be the best idea if that's not what people know you as professionally. Your real name doesn't have to be your professional name for various reasons: it could be difficult to read or hard to spell. You want to pick something memorable, too. If you don't plan on using your real name professionally, pick a new name and make sure you stick with it on every professional platform. You could also do this and pick a catchy name that describes the work you do. There are many examples of this online, so I suggest you take a look at some for inspiration. Two examples would be the website of one of the co-founders of Dribbble who chose <a href="http://simplebits.com" target="_blank">SimbleBits.com</a> and the website of one of the creators of the video game <em>Night in the Woods</em> who chose <a href="http://bombfalls.com" target="_blank">BombsFall.com</a>. If your domain isn't available as a .com, consider getting a .net or a .org domain, as they are the second highest-ranking on search engines. An example of a well-visited website with one of these TLDs would be the website of the cartoonist and illustrator famous for the StupidFox comic who chose <a href="http://eychan.org" target="_blank">eychan.org</a>.</p>
 
 <p>I myself owned two professional domains with different TLDs, with the one on this blog having a .org. (I would have chosen a .com TLD, but did whoever buy ByLiz.com really think I'd pay over $2,000 for it?!) I still try to keep a consistent branding elsewhere online, and because my last name isn't the easiest to spell, I strategically chose my current domain name so that any subdomain I use with it is cutely memorable, i.e. <em>Themes.ByLiz.org</em> and <em>Games.ByLiz.org</em>. Remember that your name is part of your personal brand. Sell your name as you would sell your work and have fun with it!</p>
 
 <h4>Tip #4: Be a minimalist.</h4>
 
-<img src="https://lizlorena.com/img/TaniaRasciawebsite.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/TaniaRasciawebsite.png" alt="" class="img-fluid"/>
 
-<p class="caption">Portfolio and blog of developer and designer&nbsp;<a href="http://taniarascia.com" target="_blank">Tania Rascia</a></p>
+<p class="caption">Portfolio and blog of developer and designer <a href="http://taniarascia.com" target="_blank">Tania Rascia</a></p>
 
 <p>The worst thing you can do for your portfolio site is load it with so many things that it doesn't even load in the browser. The most common minimalist design choice I see is a lot of white space and simple navigation, but there are other ways of achieving minimalism for your site without resorting to something uninspired. The point is that you want the focus to be on the content of your site, not the site itself (unless you're a programmer and want your portfolio site to reflect this). To do this, choose a limited color palette. If you use a lot of color in your work, you don't want it to be overpowered by the colors around it. Two accent colors that pop, some grays, and a good amount of white is good enough. If you have created a logo for yourself, its colors could be the colors you use for your site.</p>
 
 <h4>Tip #5: Put only your best work.</h4>
 
-<img src="https://lizlorena.com/img/eychansite.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/eychansite.png" alt="" class="img-fluid"/>
 
-<p class="caption">Portfolio of illustrator and comic artist&nbsp;<a href="http://eychan.org" target="_blank">Emily Y. Chan</a></p>
+<p class="caption">Portfolio of illustrator and comic artist <a href="http://eychan.org" target="_blank">Emily Y. Chan</a></p>
 
 <p>If you are an artist, you will draw a lot of things of varying quality and often leave them in varying states of completion: doodles, sketches, single-character illustrations. Please resist the urge to post everything you draw on your portfolio website. Put only what you believe is your best work, even if you only have three pieces like that. Three works of art, are still works of art. You want your portfolio to reflect the best aspects of you that will make you employable. If you are okay with employers seeing your other work, include a link to your art <em>instagram</em> in the social media section of your portfolio, that way unfinished works or other works that you might not be super proud of will not be the first thing a potential employer's eyes land on!</p>
 
 <h4>Tip #6: Put only relevant work.</h4>
 
-<img src="https://lizlorena.com/img/ArielBenincawebsite.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/ArielBenincawebsite.png" alt="" class="img-fluid"/>
 
-<p class="caption">Portfolio of front end developer and graphic designer&nbsp;<a href="http://arielbeninca.com" target="_blank">Ariel Beninca</a></p>
+<p class="caption">Portfolio of front end developer and graphic designer <a href="http://arielbeninca.com" target="_blank">Ariel Beninca</a></p>
 
 <p>If you are looking for work in software development, don't let the first thing an employer see when they click the link to your site be a confusing mishmash of drawings, photos, and other things unrelated to the job you're applying for! If you have a lot of skills that you want to market to employers, because you have a variety of careers that you are interested in, create separate sites for your work using different subdomains or section off your portfolio into multiple pages so that all the works are neatly separated into their appropriate categories. Job recruiters have limited time on their hands, so you need to show them what would make you qualified for the job as quickly and easily as possible!</p>
 
 <h4>Tip #7: Find inspiration.</h4>
 
-<img src="https://lizlorena.com/img/awwwardswebsite.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/awwwardswebsite.png" alt="" class="img-fluid"/>
 
 <p class="caption">Award-winning websites on awwwards.com</p>
 
