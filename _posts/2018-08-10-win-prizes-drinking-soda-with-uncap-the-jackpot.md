@@ -15,7 +15,7 @@ img: Jarritos.png
 
 <h3>The Brands</h3>
 
-<img src="https://lizlorena.com/img/Jarritos.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/Jarritos.png" alt="" class="img-fluid"/>
 
 <p class="caption">Tamarind is my favorite.</p>
 
@@ -45,7 +45,7 @@ img: Jarritos.png
 
 <h3>The Process</h3>
 
-<img src="https://lizlorena.com/img/uncapthejackpot.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/uncapthejackpot.png" alt="" class="img-fluid"/>
 
 <p class="caption">Redeem your prizes at <a href="http://www.myprizes.net" target="_blank">www.myprizes.net</a></p>
 
