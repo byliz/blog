@@ -19,11 +19,11 @@ img: firealpacavsmedibang.png
 
 <h4>UI Theme</h4>
 
-<img src="https://lizlorena.com/img/FireAlpacaUI.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/FireAlpacaUI.png" alt="" class="img-fluid"/>
 
 <p class="caption">FireAlpaca</p>
 
-<img src="https://lizlorena.com/img/MediBangUI.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/MediBangUI.png" alt="" class="img-fluid"/>
 
 <p class="caption">MediBang Paint Pro</p>
 
@@ -31,15 +31,15 @@ img: firealpacavsmedibang.png
 
 <h4>Extra UI Window</h4>
 
-<img src="https://lizlorena.com/img/firealpacasidebar.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/firealpacasidebar.png" alt="" class="img-fluid"/>
 
 <p class="caption">FireAlpaca</p>
 
-<img src="https://lizlorena.com/img/medibangsidebar.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/medibangsidebar.png" alt="" class="img-fluid"/>
 
 <p class="caption">MediBang</p>
 
-<img src="https://lizlorena.com/img/saisidebar.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/saisidebar.png" alt="" class="img-fluid"/>
 
 <p class="caption">SAI</p>
 
@@ -49,11 +49,11 @@ img: firealpacavsmedibang.png
 
 <h4>OS Compatibility</h4>
 
-<img src="https://lizlorena.com/img/firealpacaos.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/firealpacaos.png" alt="" class="img-fluid"/>
 
 <p class="caption">FireAlpaca</p>
 
-<img src="https://lizlorena.com/img/medibangos.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/medibangos.png" alt="" class="img-fluid"/>
 
 <p class="caption">MediBang</p>
 
@@ -61,8 +61,8 @@ img: firealpacavsmedibang.png
 
 <h4>Saving</h4>
 
-<img src="https://lizlorena.com/img/medibangcommunity.png" alt="" class="img-fluid"/>
-<img src="https://lizlorena.com/img/medibangsave.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/medibangcommunity.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/medibangsave.png" alt="" class="img-fluid"/>
 
 <p>When you open MediBang Paint Pro, a window will pop up asking you to sign in to your MediBang account. If you make an account on MediBang.com, you can save your projects to the cloud and retrieve them on any of your devices where you have the program installed. On FireAlpaca, this feature doesn't exist. Apparently, with the cloud, MediBang advertises on its site that you can collaborate on projects using this feature.</p>
 
@@ -72,15 +72,15 @@ img: firealpacavsmedibang.png
 
 <h4>3D Perspective Snap</h4>
 
-<img src="https://lizlorena.com/img/firealpaca3d.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/firealpaca3d.png" alt="" class="img-fluid"/>
 
 <p>Something that FireAlpaca has which MediBang doesn't is the 3D perspective snap tool, which allows you to draw 3D structures with the help of a 3D model that your brush snaps to as a guide. This tool is awesome for drawing backgrounds with structures like skyscrapers, rooms, furniture, and so on.</p>
 
 <h4>Animation Mode</h4>
 
-<img src="https://lizlorena.com/img/firealpacaanimation.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/firealpacaanimation.png" alt="" class="img-fluid"/>
 
-<img src="https://lizlorena.com/img/firealpacaanimation2.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/firealpacaanimation2.png" alt="" class="img-fluid"/>
 
 <p>Another great feature missing from MediBang is an animation mode, which FireAlpaca does have. Going to the view tab, you will find "Onion Skin Mode" that you can enable to allow the layers of your project to act like frames of an animation. Now when you select a layer, you're able to see the frame that came before it and the frame that comes after it on your drawing window. You're able to play a preview of your animation, export each frame as an individual PNG, and convert your drawings into GIFs on <a href="http://firealpaca.com/en/douga/" target="_blank">FireAlpaca's website</a>. What FireAlpaca has isn't the full solution for an animation program, but it does make animating on the software a little easier. You can animate without onion skin mode by changing the opacity of the layers, but that is a lot more time-consuming. Hobby animators may find this software more attractive because of this mode.</p>
 
