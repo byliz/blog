@@ -15,11 +15,11 @@ img: samuel-zeller-427810-unsplash.jpg
 
 <p>After you open the WordPress customizer either through the top bar or the dashboard menu, open your browser's development tools by pressing Fn+F12 or F12 on your keyboard if you're using a Windows OS or Command+Option+I if you're using Mac OS.</p>
 
-<img src="https://lizlorena.com/img/twocolumnsstep1.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/twocolumnsstep1.png" alt="" class="img-fluid"/>
 
 <p>Next zoom out your browser window until you can see the entire element that you want to change. Click on the little arrow icon on the inspector tab of the development tools and hover your cursor over the element until you have highlighted the entire element like so. You'll see the entire name of the element as a tooltip above it as well as selected in the HTML code in the inspector tool. You may not have to type out the whole thing to be able to target the element you want. In my case, all I had to do was type <em>article</em> in my Custom CSS. However, it's safer to choose a longer path to avoid messing up an element with the same article tag on another page. For this reason, I've elongated the name to <em>ul.blog-grid li article</em> because the full article was being changed, too. Here is the new code:*</p>
 
-<img src="https://lizlorena.com/img/twocolumnsstep6.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/twocolumnsstep6.png" alt="" class="img-fluid"/>
 
 <h3>Step 2: Changing the width.</h3>
 
@@ -27,39 +27,39 @@ img: samuel-zeller-427810-unsplash.jpg
 
 <p>Now the only question is how to get the second post to slide up alongside the first post?</p>
 
-<img src="https://lizlorena.com/img/twocolumnsstep2.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/twocolumnsstep2.png" alt="" class="img-fluid"/>
 
 <h3>Step 3: Positioning the element.</h3>
 
-<p>To make the posts slide up, all you have to do is add&nbsp;<em>float: left;</em> to the post element. I also added a <em>margin-right: 4%;</em> so that the spacing between the post images matched with the spacing between the featured links images.</p>
+<p>To make the posts slide up, all you have to do is add <em>float: left;</em> to the post element. I also added a <em>margin-right: 4%;</em> so that the spacing between the post images matched with the spacing between the featured links images.</p>
 
 <p>Below you can see my code in the Custom CSS section so far. You'll notice that elements surrounding the posts might be a little messed up, but we'll deal with them in the next step.</p>
 
-<img src="https://lizlorena.com/img/twocolumnsstep3.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/twocolumnsstep3.png" alt="" class="img-fluid"/>
 
 <h3>Step 4: Clean-up.</h3>
 
 <p>The following pieces of code I added after the post code to fix up the elements around my post that I didn't like. Firstly, the pagination elements to see older posts and newer posts are now fixed to the bottom left of the page, so they don't get in the way of anything else and are easy to see at any time. Secondly, the space between the top of the posts and the bottom of the featured links forms a perfect square with the space between the featured links and the post images. Lastly, the top of the widgets matches with the top of the post images.</p>
 
-<img src="https://lizlorena.com/img/twocolumnsstep4.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/twocolumnsstep4.png" alt="" class="img-fluid"/>
 
 <h3>Step 5: Fixing the mobile design.</h3>
 
-<img src="https://lizlorena.com/img/thehorror.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/thehorror.png" alt="" class="img-fluid"/>
 
 <p class="caption">THE HORROR</p>
 
 <p>After clearing your phone browser cache, you'll see that the two columns look terrible on such a small screen. To fix this, simply add a media query encasing the new CSS you created so that your two column layout only appears on tablets and computer monitors. Below you can see the complete CSS code and a demonstration that my site now looks better on mobile.</p>
 
-<img src="https://lizlorena.com/img/twocolumnsstep5.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/twocolumnsstep5.png" alt="" class="img-fluid"/>
 
-<img src="https://lizlorena.com/img/twocolumnstep5img2.gif" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/twocolumnstep5img2.gif" alt="" class="img-fluid"/>
 
 <p class="caption">Beautiful.</p>
 
 <p>By the way, you can access a mobile view of your site without having to pick up your phone thanks to your development tools. Just click this small little phone icon along the top right of the tools, and you'll be able to see your changes much more quickly.</p>
 
-<img src="https://lizlorena.com/img/twocolumnsstep5img3.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/twocolumnsstep5img3.png" alt="" class="img-fluid"/>
 
 <h4>Resources:</h4>
 
