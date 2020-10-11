@@ -16,7 +16,7 @@ excerpt: "This was my final paper for my Interdisciplinary Honors Seminar course
 img: evil.png
 ---
 
-<img src="https://lizlorena.com/img/evil.png" class="img-fluid">
+<img src="https://cozymaus.com/img/evil.png" class="img-fluid">
 <!--<p class="caption">ouo</p>
 -->
 
