@@ -6,7 +6,7 @@
 		{% for post in site.posts limit:5 %}
 		<div class="latest-post">
 		<!--<img src="/img/{{ post.img }}" class="latest img-fluid">-->
-		<a href="https://cozymaus.com/old-blog{{ post.url }}">	
+		<a href="https://cozymaus.com/blog{{ post.url }}">	
 		<div class="latest">		
 			<h6>{{ post.date | date_to_string }}</h6>
 			<h2>{{ post.title | strip_html | truncatewords: 6 }}</h2>
