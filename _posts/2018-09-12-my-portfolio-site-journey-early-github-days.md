@@ -19,57 +19,57 @@ img: firstportfolio.png
 
 <h4>Version 2.1.0 - Mid 2017</h4>
 
-<img src="https://lizlorena.com/img/firstportfoliofromscratchss.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/firstportfoliofromscratchss.png" alt="" class="img-fluid"/>
 
 <p>I think this is the earliest screenshot I have from my early attempts at making a website with a proper design from scratch. I tried to go with a minimalist modern design with lots of white space again, but I wasn't happy with the loose and sloppy way the pages behaved. In retrospect, the index page does look pretty cool, and if I only still had the source code I would share it with you over on my Github. In fact, I may try to remake it sometime. I do recall that I used bootstrap to center the elements on the page and make the buttons, so this places this design somewhere in mid to late 2017.</p>
 
 <h4 id="first-portfolio">Version 2.2.0 - Late 2017</h4>
 
-<img src="https://lizlorena.com/img/firstportfolio.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/firstportfolio.png" alt="" class="img-fluid"/>
 
-<p class="caption"><a href="https://byliz.github.io/portfolio-2017" target="_blank">Visit Site</a> • <a href="https://github.com/byliz/portfolio-2017" target="_blank">Source Code</a></p>
+<p class="caption"><a href="https://cozymaus.github.io/portfolio-2017" target="_blank">Visit Site</a> • <a href="https://github.com/cozymaus/portfolio-2017" target="_blank">Source Code</a></p>
 
 <p>My first stable portfolio site was made thanks to the work of <a href="http://taniarascia.com" target="_blank">Tania Rascia</a>, a web developer who makes extremely useful tutorials for web development and design. This particular theme was made available by her for free on Github <a href="https://github.com/taniarascia/portfolio" target="_blank">here</a>. She has a <a href="https://www.patreon.com/taniarascia" target="_blank">Patreon</a>, so you can support her there!</p>
 
 <p>This theme is a trendy one page theme that looks fabulous on mobile with its sliding menu. Because at this point I was learning about the importance of responsiveness in modern web design, I took apart and reassembled this code with some modifications to learn further. Its simplicity makes it best for a resume-style personal website.</p>
 
-<img src="https://lizlorena.com/img/togglesshow.gif" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/togglesshow.gif" alt="" class="img-fluid"/>
 
 <p>With this theme I got to experiment with a little bit of Javascript and jQuery, making my project descriptions toggle on and off. I actually started making tons of progress GIFs at this point with <a href="https://www.screentogif.com/">ScreenToGif</a>, and it's thanks to that that I'm able to recover bits of my progress to make this blog!</p>
 
 <p>Here's a screenshot of the whole site using the <a href="https://addons.mozilla.org/en-US/firefox/addon/fireshot/" target="_blank">FireShot FireFox extension</a>:</p>
 
-<img src="https://lizlorena.com/img/portfolioearly2017.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/portfolioearly2017.png" alt="" class="img-fluid"/>
 
 <h4 id="second-portfolio">Version 2.3.0 - Late 2017</h4>
 
-<img src="https://lizlorena.com/img/secondportfolio.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/secondportfolio.png" alt="" class="img-fluid"/>
 
-<p class="caption"><a href="https://byliz.github.io/portfolio-2017-v2" target="_blank">Visit Site</a>  • <a href="https://github.com/byliz/portfolio-2017-v2" target="_blank">Source Code</a></p>
+<p class="caption"><a href="https://cozymaus.github.io/portfolio-2017-v2" target="_blank">Visit Site</a>  • <a href="https://cozymaus.com/byliz/portfolio-2017-v2" target="_blank">Source Code</a></p>
 
 <p>The final portfolio of mine from 2017 was a more ambitious and complicated theme for me to do. I had figured out that naming your pages <em>index.html </em>and placing them inside a folder with the name of the page made it so that you wouldn't need to type <em>.html </em>in the URL, but this got a little bit out of hand as I found myself making copies of the same code again and again. Ultimately this portfolio was a failure for me, but I was trying to get more creative with it. I had been looking for inspiration online and came across <a href="http://arielbeninca.com" target="_blank">Ariel Beninca</a>'s awesome portfolio website. At the time, her site was mainly white with graphics of her work in an alternating pattern, so I just had to try to replicate the layout. I began making some colorful graphics to represent my items, which I still use on my current portfolio. One of the bad choices I made, however, was making not only a fixed menu, but a fixed footer.</p>
 
 <p>This was the result courtesy FireShot, with a little editing because the fixed footer really botched the screenshot:</p>
 
-<img src="https://lizlorena.com/img/portfoliolate20172.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/portfoliolate20172.png" alt="" class="img-fluid"/>
 
-<img src="https://lizlorena.com/img/smoooooth.gif" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/smoooooth.gif" alt="" class="img-fluid"/>
 
 <p class="caption">Having fun with image opacity.</p>
 
 <p>The landing page and other pages used a different design, however. I tried to do something fancy with a black background with an inner white border and gold lettering. When you clicked on the white arrow, the landing page would hide, change the colors of my navigation links, and show my work page below it. </p>
 
-<img src="https://lizlorena.com/img/portfoliolate2017.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/portfoliolate2017.png" alt="" class="img-fluid"/>
 
 <p>And if you mouse over my initials...</p>
 
-<img src="https://lizlorena.com/img/LB.gif" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/LB.gif" alt="" class="img-fluid"/>
 
 <p>You get a smug little froggy smile! 🐸 </p>
 
 <p>The other special thing I tried to do for this version of my portfolio was attempt to make a system of terms, prices, and examples for illustration and web design commissions that never really panned out. The system was too complicated because I tried using these tabs that would swap the content on the screen using Javascript and also my own gallery and preview image script.</p>
 
-<img src="https://lizlorena.com/img/newgallery.gif" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/newgallery.gif" alt="" class="img-fluid"/>
 
 <h3>Conclusion</h3>
 
