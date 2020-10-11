@@ -23,27 +23,27 @@ img: tyler-nix-590905-unsplash2.jpg
 
 <h3>For Tumblr</h3>
 
-<img src="https://lizlorena.com/img/TumblrDomainSection.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/TumblrDomainSection.png" alt="" class="img-fluid"/>
 
 <p class="caption">Where you type your domain in your Tumblr blog settings</p>
 
 <p>To navigate to where you'll add your domain, go to the little person icon in the top right of your page and click "Edit Appearance" under the Tumblr to which you want to attach your domain. Then click the little pencil icon next to your "Tumblr URL" to edit your domain. Click the little slide button next to "Use a custom domain". You'll want to type it in immediately, but <em>not so fast.</em></p>
 
-<img src="https://lizlorena.com/img/TumblrDomainError.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/TumblrDomainError.png" alt="" class="img-fluid"/>
 
 <p class="caption">Error message for custom domain</p>
 
-<img src="https://lizlorena.com/img/TumblrDomainError2.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/TumblrDomainError2.png" alt="" class="img-fluid"/>
 
 <p class="caption">Error message for custom subdomain</p>
 
-<p>Click "Test Domain" and you'll see there's some work to do. To use your domain,&nbsp; go back to Namecheap and add two records. You'll want these two records to look like this:</p>
+<p>Click "Test Domain" and you'll see there's some work to do. To use your domain, go back to Namecheap and add two records. You'll want these two records to look like this:</p>
 
-<img src="https://lizlorena.com/img/TumblrDomainNamecheap.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/TumblrDomainNamecheap.png" alt="" class="img-fluid"/>
 
 <p>To use a subdomain, simply change the value of the Host in the CNAME record from www to your desired subdomain. If you want, you can even delete the A record, and it should still work. Now you can attach this domain to any of your Tumblr blogs!</p>
 
-<img src="https://lizlorena.com/img/TumblrGoodDomain.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/TumblrGoodDomain.png" alt="" class="img-fluid"/>
 
 <p class="caption">Success.</p>
 
@@ -53,27 +53,27 @@ img: tyler-nix-590905-unsplash2.jpg
 
 <p>However, you can attach your own purchased domain or subdomains to any of your repositories, by editing your Namecheap records and then typing in your domain or subdomain in the Custom domain section. Note that, unlike with Tumblr, your site will not have HTTPS if you apply a custom domain.</p>
 
-<img src="https://lizlorena.com/img/GithubCustomDomain.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/GithubCustomDomain.png" alt="" class="img-fluid"/>
 
 <p class="caption">The GitHub Pages settings for your repo</p>
 
 <p>To be able to set a custom domain, add these records in Namecheap:</p>
 
-<img src="https://lizlorena.com/img/GithubDomainNamecheap.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/GithubDomainNamecheap.png" alt="" class="img-fluid"/>
 
 <p>For the subdomain, you can do the same as you do for attaching a subdomain on Tumblr. Now, you can attach your domain to any of your repos! </p>
 
-<img src="https://lizlorena.com/img/GithubDomainSuccess.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/GithubDomainSuccess.png" alt="" class="img-fluid"/>
 
 <p class="caption">Another success!</p>
 
 <p>You should now see a CNAME file in your repo that contains nothing but the domain or subdomain your static site now uses.</p>
 
-<img src="https://lizlorena.com/img/githubcname.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/githubcname.png" alt="" class="img-fluid"/>
 
 <p class="caption">The new CNAME file</p>
 
-<img src="https://lizlorena.com/img/githubcname2.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/githubcname2.png" alt="" class="img-fluid"/>
 
 <p class="caption">The contents of the CNAME file</p>
 
@@ -81,29 +81,29 @@ img: tyler-nix-590905-unsplash2.jpg
 
 <p>Now with x10Hosting.com, connecting a domain is different because the website uses cPanel and requires you to park your domain on their servers. Because of this, they can impose limits on how many domains and subdomains you can use to create websites.</p>
 
-<img src="https://lizlorena.com/img/x10hostingdomainpage.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/x10hostingdomainpage.png" alt="" class="img-fluid"/>
 
 <p class="caption">You are allowed only 1 parked domain and 2 subdomains.</p>
 
 <p>Once you log in, click the button to open your cPanel. Click on "Domains" and then click on the green button to add a new domain. </p>
 
-<img src="https://lizlorena.com/img/x10hostingdomainerror.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/x10hostingdomainerror.png" alt="" class="img-fluid"/>
 
 <p class="caption">Error message explaining what to do to park the domain.</p>
 
 <p>To park a domain to use on x10Hosting, you must do as this page tells you. Go back to Namecheap, and this time stay on the Domain tab of your domain and scroll down to the section titled "Nameservers". Set up your nameservers like so:</p>
 
-<img src="https://lizlorena.com/img/x10hostingnameservers.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/x10hostingnameservers.png" alt="" class="img-fluid"/>
 
 <p>With that you can go back to x10Hosting and click "Add Domain". Note that the DNS Server may take up to 48 hours to take effect. If you wish to build a website on top of a subdomain instead of a domain, you may now create a subdomain from your own domain back in the Add New Domain page.</p>
 
-<img src="https://lizlorena.com/img/x10hostingsubdomainaddition.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/x10hostingsubdomainaddition.png" alt="" class="img-fluid"/>
 
 <p class="caption">Creating a subdomain requires having the domain parked.</p>
 
 <p>Now you're able to create a website using your own domain or subdomain!</p>
 
-<img src="https://lizlorena.com/img/x10hostingsuccess.png" alt="" class="img-fluid"/>
+<img src="https://cozymaus.com/img/x10hostingsuccess.png" alt="" class="img-fluid"/>
 
 <p class="caption">Three times the charm.</p>
 
