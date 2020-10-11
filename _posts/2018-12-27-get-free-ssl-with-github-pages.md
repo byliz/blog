@@ -47,7 +47,7 @@ I covered in my other tutorial about <a href="{{ site.url }}/posts/how-to-connec
 
 Make sure your CNAME record has a host of "www" and a value of "_yourusername_.github.io." with _yourusername_ being your Github username. To use a custom subdomain, use whatever word you want to use for your subdomain as a host instead of "www".
 
-<img src="https://lizlorena.com/img/sslnamecheapconfiguration.png" class="img-fluid">
+<img src="https://cozymaus.com/img/sslnamecheapconfiguration.png" class="img-fluid">
 
 <p class="caption">My own Namecheap configuration</p>
 
@@ -55,7 +55,7 @@ Make sure your CNAME record has a host of "www" and a value of "_yourusername_.g
 
 Next, go to your repo Settings and scross down to the section labeled "Github Pages". After you save your custom domain, you should be able to click on the checkbox that says "Enforce HTTPS" if you set up your CNAME and A record(s) successfully. Note that your site may have issues unless you make sure to add "www." in front of your custom domain. This was what I had to do.
 
-<img src="https://lizlorena.com/img/sslsuccess.png" class="img-fluid">
+<img src="https://cozymaus.com/img/sslsuccess.png" class="img-fluid">
 
 <p class="caption">This is what you should see after a few minutes if it was a success.</p>
 
@@ -63,7 +63,7 @@ Next, go to your repo Settings and scross down to the section labeled "Github Pa
 
 One issue I encountered was that for a few hours the connection to my site was marked as "insecure" by my browser. Knowing that this warning is often thrown if my site has mixed content (sources from an unsecure HTTP url such as images) I went ahead and made sure the images on my site were all from HTTPS. Note that it takes a few hours for the connection to become secured.
 
-<img src="https://lizlorena.com/img/httpssuccess2.png" class="img-fluid">
+<img src="https://cozymaus.com/img/httpssuccess2.png" class="img-fluid">
 
 <p class="caption">The final result, verified by <em>Let's Encrypt</em>.</p>
 
