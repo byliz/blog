@@ -11,18 +11,18 @@ title: Art Posts |
 {% for post in site.categories.art %}
 
 <div class="post">
-	<a href="https://cozymaus.com/old-blog{{ post.url }}">
+	<a href="https://cozymaus.com/blog{{ post.url }}">
 	<!--<img src="{{ site.baseurl }}/img/{{ post.img }}" class="featured-img img-fluid">-->
 	</a>
 	<div class="header">
-		<p class="categories"><span class="cat">In </span><a href="https://cozymaus.com/old-blog/{{ post.categories[0] }}">{{ post.categories[0] }}</a></p>
-		<a href="https://cozymaus.com/old-blog{{ post.url }}">
+		<p class="categories"><span class="cat">In </span><a href="https://cozymaus.com/blog/{{ post.categories[0] }}">{{ post.categories[0] }}</a></p>
+		<a href="https://cozymaus.com/blog{{ post.url }}">
 			<h1>{{ post.title }}</h1>
 		</a>
 		<p class="date">{{ post.date | date_to_string }}</p>
 	</div>
 	<p class="excerpt">{{ post.excerpt }}<br><br>
-		<a href="https://cozymaus.com/old-blog{{ post.url }}">Read more →</a>
+		<a href="https://cozymaus.com/blog{{ post.url }}">Read more →</a>
 	</p>
 </div>
 
