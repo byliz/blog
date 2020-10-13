@@ -28,7 +28,7 @@ img: gametimeline.png
 
 <h2>Theme Store</h2>
 
-<p>I still haven't added any themes to the theme store, but I did update the terms of service and privacy policy. See it here: <a href="https://themes.cozymaus.com" target="_blank">Themes.cozymaus.com</a>.</p>
+<p>I still haven't added any themes to the theme store, but I did update the terms of service and privacy policy. See it here: <a href="http://themes.cozymaus.com" target="_blank">Themes.cozymaus.com</a>.</p>
 
 <h2>Log Out: A Cyber Harassment Survival Guide</h2>
 
