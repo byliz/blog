@@ -78,7 +78,7 @@ img: samuel-zeller-427810-unsplash.jpg
 <p>Images:</p>
 
 <ul>
-	<li>Photo by <a href="https://unsplash.com/photos/591HrSo_RcY?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Samuel Zeller</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></li>
+	<li>Photo by Samuel Zeller on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></li>
 	<li>Screenshots of ByLiz.org by me</li>
 </ul>
 
