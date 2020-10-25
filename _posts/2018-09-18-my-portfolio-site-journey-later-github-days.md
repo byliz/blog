@@ -15,13 +15,13 @@ img: portfoliomid2018desktop.png
 
 <h3>The Later Github Days</h3>
 
-<p>One of the biggest developments in this time period was that I learned to use <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, a modular static site generator that drastically reduced the number of files and code I needed from the <a href="https://www.byliz.org/blog/posts/my-portfolio-site-journey-early-github-days/">last portfolio site design</a> in the second part of this series. Using Jekyll, I can run my site locally from my computer, and this method of coding is so fast and easy that it's the method I still use currently when making websites from scratch.</p>
+<p>One of the biggest developments in this time period was that I learned to use <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, a modular static site generator that drastically reduced the number of files and code I needed from the <a href="https://cozymaus.com/blog/posts/my-portfolio-site-journey-early-github-days/">last portfolio site design</a> in the second part of this series. Using Jekyll, I can run my site locally from my computer, and this method of coding is so fast and easy that it's the method I still use currently when making websites from scratch.</p>
 
 <h4 id="third-portfolio">Version 3.1.0 - Early 2018</h4>
 
 <img src="https://cozymaus.com/img/thirdportfolio.png" alt="" class="img-fluid"/>
 
-<p class="caption"><a href="https://cozymaus.github.io/portfolio-2018" target="_blank">Visit Site</a> • <a href="https://github.com/cozymaus/portfolio-2018" target="_blank">Source Code</a></p>
+<p class="caption"><a href="https://cozymaus.com/portfolio-2018" target="_blank">Visit Site</a> • <a href="https://github.com/cozymaus/portfolio-2018" target="_blank">Source Code</a></p>
 
 <p>I was really proud of the portfolio site that I worked on in the winter of 2017 into early 2018. For this design, I was inspired by the clear and elegant double panel look of front-end developer <a href="http://www.kathrynmcclintock.com/" target="_blank">Kathryn McClintock's</a> small resume site. I combined this design with an original Z-shaped design, wherein the right panel would have a large photo of me, the left panel would be scroll-able, and the legs of the Z would have the navigation menu on the left panel and links to my social media on the right panel. I learned how to better use the Bootstrap grid layout system, how to use background properties on images, how to change icons into words, how to make scrolling content boxes, and the awesome Jekyll site generator, which I also used to make my own little blog page complete with <a href="http://longqian.me/2017/02/09/github-jekyll-tag/" target="_blank">tags</a>. I also focused on making my website mobile-ready with a dropdown button menu that only appeared when the browser became a certain width.</p>
 
@@ -39,7 +39,7 @@ img: portfoliomid2018desktop.png
 
 <img src="https://cozymaus.com/img/portfoliomid2018mobile.png" alt="" class="img-fluid"/>
 
-<p class="caption"><a href="http://byliz.github.io" target="_blank">Visit Site</a>  • <a href="https://github.com/byliz/byliz.github.io">Source Code</a></p>
+<p class="caption"><a href="http://cozymaus.com/portfolio-2018-v2" target="_blank">Visit Site</a>  • <a href="https://github.com/cozymaus/portfolio-2018-v2">Source Code</a></p>
 
 <img src="https://cozymaus.com/img/portfoliomid2018desktop.png" alt="" class="img-fluid"/>
 
