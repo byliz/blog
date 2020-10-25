@@ -138,6 +138,6 @@ img: tyler-nix-590905-unsplash2.jpg
 <p>Image credits:</p>
 
 <ul>
-	<li>Photo by <a href="https://unsplash.com/photos/NXJBxtMvq2o?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank">Tyler Nix</a> on <a href="https://unsplash.com/search/photos/connection?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank">Unsplash</a></li>
+	<li>Photo by Tyler Nix on <a href="https://unsplash.com/search/photos/connection?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank">Unsplash</a></li>
 	<li>Screenshots from websites</li>
 </ul>
