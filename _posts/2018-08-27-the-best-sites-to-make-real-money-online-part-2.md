@@ -11,7 +11,7 @@ img: kevin-bhagat-343433-unsplash.jpg
 
 <iframe class="video" src="https://www.youtube.com/embed/2e-uLBC5k0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p><first-letter>W</first-letter>elcome to the second part of my list of the best sites to make real money online! For this part, I've found two other legitimate ways of making money online recently. Note that for this list, the jobs require a lengthy application or qualification process in order to be accepted to start working with the company, but that shouldn't stop you from trying because the rewards outnumber those of the <a href="https://www.byliz.org/blog/posts/the-best-sites-to-make-real-money-online-part-1">first two sites</a> on this list.</p>
+<p><first-letter>W</first-letter>elcome to the second part of my list of the best sites to make real money online! For this part, I've found two other legitimate ways of making money online recently. Note that for this list, the jobs require a lengthy application or qualification process in order to be accepted to start working with the company, but that shouldn't stop you from trying because the rewards outnumber those of the <a href="https://cozymaus.com/blog/posts/the-best-sites-to-make-real-money-online-part-1">first two sites</a> on this list.</p>
 
 <h3>Rev.com</h3>
 
@@ -73,7 +73,7 @@ img: kevin-bhagat-343433-unsplash.jpg
 
 <ul>
 	<li><a href="https://www.rev.com/blog/productivity-tips-full-time-revver/" target="_blank">"Productivity Tips from a Full-Time Revver with a $500 Weekly Goal"</a> by Jacob Olsen on Rev.com</li>
-	<li><a href="{{ site.url }}/posts/the-best-sites-to-make-real-money-online-part-1">"The Best Sites to Make Real Money Online [Part 1]"</a> by me on CozyMaus.com/blog</li>
+	<li><a href="https://cozymaus.com/blog/posts/the-best-sites-to-make-real-money-online-part-1">"The Best Sites to Make Real Money Online [Part 1]"</a> by me on CozyMaus.com/blog</li>
 </ul>
 
 <p>Image credits:</p>
