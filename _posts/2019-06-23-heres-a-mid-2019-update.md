@@ -28,11 +28,11 @@ img: gametimeline.png
 
 <h2>Theme Store</h2>
 
-<p>I still haven't added any themes to the theme store, but I did update the terms of service and privacy policy. See it here: <a href="http://themes.cozymaus.com" target="_blank">Themes.cozymaus.com</a>.</p>
+<p>I still haven't added any themes to the theme store, but I did update the terms of service and privacy policy. See it here: <a href="http://cozymaus.com/themes" target="_blank">cozymaus.com/themes</a>.</p>
 
 <h2>Log Out: A Cyber Harassment Survival Guide</h2>
 
-<p>My DCIM capstone project website came out as planned and can be checked out here: <a href="https://cozymaus.github.io/logout" target="_blank">cozymaus.github.io/LogOut</a>. I'm honestly so proud of the construction of this website. I managed to capture the design of the current Kiwi Farms website perfectly, I think. I definitely want to add onto this website sometime in the future and create similar websites - albeit on less serious topics. This is partly due to new inspiration by the video game fan sites of Wurm Online and Ultima Online by game artist and streamer Andrea Fryer (<a href="https://www.youtube.com/user/KatsPurr" target="_blank">Katspurr on YouTube</a>). This segues into the next project...</p>
+<p>My DCIM capstone project website came out as planned and can be checked out here: <a href="https://LogOut.cozymaus.com" target="_blank">LogOut.cozymaus.com</a>. I'm honestly so proud of the construction of this website. I managed to capture the design of the current Kiwi Farms website perfectly, I think. I definitely want to add onto this website sometime in the future and create similar websites - albeit on less serious topics. This is partly due to new inspiration by the video game fan sites of Wurm Online and Ultima Online by game artist and streamer Andrea Fryer (<a href="https://www.youtube.com/user/KatsPurr" target="_blank">Katspurr on YouTube</a>). This segues into the next project...</p>
 
 <h2>Rampage Information Database</h2>
 
