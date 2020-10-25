@@ -15,7 +15,7 @@ img: portfoliomid2018desktop.png
 
 <h3>The Later Github Days</h3>
 
-<p>One of the biggest developments in this time period was that I learned to use <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, a modular static site generator that drastically reduced the number of files and code I needed from the <a href="https://cozymaus.com/blog/posts/my-portfolio-site-journey-early-github-days/">last portfolio site design</a> in the second part of this series. Using Jekyll, I can run my site locally from my computer, and this method of coding is so fast and easy that it's the method I still use currently when making websites from scratch.</p>
+<p>One of the biggest developments in this time period was that I learned to use <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, a modular static site generator that drastically reduced the number of files and code I needed from the <a href="https://cozymaus.com/blog/posts/my-portfolio-site-journey-early-github-days">last portfolio site design</a> in the second part of this series. Using Jekyll, I can run my site locally from my computer, and this method of coding is so fast and easy that it's the method I still use currently when making websites from scratch.</p>
 
 <h4 id="third-portfolio">Version 3.1.0 - Early 2018</h4>
 
