@@ -29,7 +29,7 @@ img: firstportfolio.png
 
 <p class="caption"><a href="https://cozymaus.github.io/portfolio-2017" target="_blank">Visit Site</a> • <a href="https://github.com/cozymaus/portfolio-2017" target="_blank">Source Code</a></p>
 
-<p>My first stable portfolio site was made thanks to the work of <a href="http://taniarascia.com" target="_blank">Tania Rascia</a>, a web developer who makes extremely useful tutorials for web development and design. This particular theme was made available by her for free on Github <a href="https://github.com/taniarascia/portfolio" target="_blank">here</a>. She has a <a href="https://www.patreon.com/taniarascia" target="_blank">Patreon</a>, so you can support her there!</p>
+<p>My first stable portfolio site was made thanks to the work of <a href="http://taniarascia.com" target="_blank">Tania Rascia</a>, a web developer who makes extremely useful tutorials for web development and design. This particular theme was made available by her for free on Github. She has a <a href="https://www.patreon.com/taniarascia" target="_blank">Patreon</a>, so you can support her there!</p>
 
 <p>This theme is a trendy one page theme that looks fabulous on mobile with its sliding menu. Because at this point I was learning about the importance of responsiveness in modern web design, I took apart and reassembled this code with some modifications to learn further. Its simplicity makes it best for a resume-style personal website.</p>
 
