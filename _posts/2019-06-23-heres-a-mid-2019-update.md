@@ -24,11 +24,11 @@ img: gametimeline.png
 
 <h2>DCIM Portfolio Website</h2>
 
-<p>My website for my DCIM minor class was completed, and you can check it out here: <a href="https://cozymaus.github.io/dcim" target="_blank">cozymaus.github.io/DCIM</a>. Honestly by the time I'm writing this, I'd say that I've improved my design skills even more and would have been more creative with my design choices. One thing I liked that I did was use jQuery to filter projects based on the skills I used in those projects.</p>
+<p>My website for my DCIM minor class was completed, and you can check it out here: <a href="https://cozymaus.com/dcim" target="_blank">cozymaus.com/DCIM</a>. Honestly by the time I'm writing this, I'd say that I've improved my design skills even more and would have been more creative with my design choices. One thing I liked that I did was use jQuery to filter projects based on the skills I used in those projects.</p>
 
 <h2>Theme Store</h2>
 
-<p>I still haven't added any themes to the theme store, but I did update the terms of service and privacy policy. See it here: <a href="http://cozymaus.com/themes" target="_blank">cozymaus.com/themes</a>.</p>
+<p>I still haven't added any themes to the theme store, but I did update the terms of service and privacy policy. See it here: <a href="https://cozymaus.com/themes" target="_blank">cozymaus.com/themes</a>.</p>
 
 <h2>Log Out: A Cyber Harassment Survival Guide</h2>
 
@@ -40,7 +40,7 @@ img: gametimeline.png
 
 <h2>Vplay: Children's Edutational Mobile Platform</h2>
 
-<p>The capstone project for my ITI course developed into a really cool project aimed towards turning the phone and tablet screentime of children ages 3 to 7 into something more productive. You can read more about our platform on the website I made for it here: <a href="https://vplay.cozymaus.com" target="_blank">Vplay.cozymaus.com</a>. My involvement in the project included coding and designing the website, designing flowcharts for some of the games and the app, and drawing the initial mockups of the mascot. I felt like my design skills got much stronger here.</p>
+<p>The capstone project for my ITI course developed into a really cool project aimed towards turning the phone and tablet screentime of children ages 3 to 7 into something more productive. You can read more about our platform on the website I made for it here: <a href="https://cozymaus.com/vplay" target="_blank">cozymaus.com/vplay</a>. My involvement in the project included coding and designing the website, designing flowcharts for some of the games and the app, and drawing the initial mockups of the mascot. I felt like my design skills got much stronger here.</p>
 
 <h2>Super Secret Indie Video Game</h2>
 
