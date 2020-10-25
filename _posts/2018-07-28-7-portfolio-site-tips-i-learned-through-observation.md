@@ -104,7 +104,7 @@ img: snapbythree-my-297409-unsplashedited.jpg
 
 <ul>
 	<li><a href="http://simplebits.com/" target="_blank">http://simplebits.com/</a> (Dan Cederholm, co-founder of Dribbble)</li>
-	<li><a href="http://www.bombsfall.com/" target="_blank">http://www.bombsfall.com/</a> (Scott Benson, designer on Night In The Woods video game)</li>
+	<li>http://www.bombsfall.com/ (Scott Benson, designer on Night In The Woods video game)</li>
 	<li><a href="http://eychan.org/" target="_blank">http://eychan.org/</a> (Emily Chan, creator of StupidFox comics)</li>
 	<li><a href="http://arielbeninca.com/" target="_blank">http://arielbeninca.com/</a> (Ariel Beninca, front end developer and graphic designer)</li>
 	<li><a href="http://taniarascia.com/" target="_blank">http://taniarascia.com/</a> (Tania Rascia, web developer, designer, and writer)</li>
