@@ -80,7 +80,7 @@ img: firstportfolio.png
 <p>Inspirations:</p>
 
 <ul>
-	<li><a href="http://github.com/taniarascia/portfolio" target="_blank">Example Portfolio Resume</a> by <a href="http://taniarascia.com" target="_blank">Tania Rascia</a> (<a href="http://patreon.com/taniarascia" target="_blank">her Patreon</a>)</li>
+	<li>Example Portfolio Resume by <a href="http://taniarascia.com" target="_blank">Tania Rascia</a> (<a href="http://patreon.com/taniarascia" target="_blank">her Patreon</a>)</li>
 	<li><a href="http://arielbeninca.com" target="_blank">Arial Beninca</a>'s Portfolio</li>
 </ul>
 
