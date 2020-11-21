@@ -8,14 +8,14 @@ excerpt: "All blog posts sorted by date."
 <div class="post">
 	<!--<img src="{{ site.baseurl }}/img/{{ post.img }}">-->
 	<div class="header">
-		<p class="categories"><span class="cat">In </span><a href="https://cozymaus.com/blog/{{ post.categories[0] }}">{{ post.categories[0] }}</a></p>
-		<a href="https://cozymaus.com/blog{{ post.url }}">
+		<p class="categories"><span class="cat">In </span><a href="{{ site.url }}/blog/{{ post.categories[0] }}">{{ post.categories[0] }}</a></p>
+		<a href="{{ site.url }}/blog{{ post.url }}">
 			<h1>{{ post.title }}</h1>			
 		</a>
     <p class="date">{{ post.date | date_to_string }}</p>
 	</div>
 	<p class="excerpt">{{ post.excerpt }}<br><br>
-    <a href="https://cozymaus.com/blog{{ post.url }}">Read more →</a>
+    <a href="{{ site.url }}/blog{{ post.url }}">Read more →</a>
   </p>
 </div>
 
@@ -26,14 +26,14 @@ excerpt: "All blog posts sorted by date."
 <div class="pagination">
 
   {% if paginator.next_page %}
-    <a href="https://cozymaus.com/blog{{ paginator.next_page_path | relative_url }}" class="next">
+    <a href="{{ site.url }}/blog{{ paginator.next_page_path | relative_url }}" class="next">
       <span>&laquo; Previous Posts</span> 
     </a>
   
   {% endif %}
 
   {% if paginator.previous_page %}
-    <a href="https://cozymaus.com/blog{{ paginator.previous_page_path | relative_url }}" class="prev">
+    <a href="{{ site.url }}/blog{{ paginator.previous_page_path | relative_url }}" class="prev">
       <span style="float:right">Later Posts &raquo;</span>
     </a>
   
