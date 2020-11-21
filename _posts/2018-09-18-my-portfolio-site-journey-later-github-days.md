@@ -15,11 +15,11 @@ img: portfoliomid2018desktop.png
 
 <h3>The Later Github Days</h3>
 
-<p>One of the biggest developments in this time period was that I learned to use <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, a modular static site generator that drastically reduced the number of files and code I needed from the <a href="https://cozymaus.com/blog/posts/my-portfolio-site-journey-early-github-days">last portfolio site design</a> in the second part of this series. Using Jekyll, I can run my site locally from my computer, and this method of coding is so fast and easy that it's the method I still use currently when making websites from scratch.</p>
+<p>One of the biggest developments in this time period was that I learned to use <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, a modular static site generator that drastically reduced the number of files and code I needed from the <a href="{{ site.url }}/blog/posts/my-portfolio-site-journey-early-github-days">last portfolio site design</a> in the second part of this series. Using Jekyll, I can run my site locally from my computer, and this method of coding is so fast and easy that it's the method I still use currently when making websites from scratch.</p>
 
 <h4 id="third-portfolio">Version 3.1.0 - Early 2018</h4>
 
-<img src="https://cozymaus.com/img/thirdportfolio.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/thirdportfolio.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://cozymaus.com/portfolio-2018" target="_blank">Visit Site</a> • <a href="https://github.com/cozymaus/portfolio-2018" target="_blank">Source Code</a></p>
 
@@ -27,21 +27,21 @@ img: portfoliomid2018desktop.png
 
 <p>I was really excited when I made this site, so here are some GIFs of me showing it off in its first complete look. I only picked that shade of green because it matched the foliage in that photo, okay!</p>
 
-<img src="https://cozymaus.com/img/newportfoliositemobile.gif" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/newportfoliositemobile.gif" alt="" class="img-fluid"/>
 
 <p class="caption">The work page made me especially happy.</p>
 
-<img src="https://cozymaus.com/img/TAGS.gif" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/TAGS.gif" alt="" class="img-fluid"/>
 
 <p class="caption">Freaking out because I figured out tags</p>
 
 <h4 id="fourth-portfolio">Version 3.2.0 - Mid 2018</h4>
 
-<img src="https://cozymaus.com/img/portfoliomid2018mobile.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/portfoliomid2018mobile.png" alt="" class="img-fluid"/>
 
-<p class="caption"><a href="http://cozymaus.com/portfolio-2018-v2" target="_blank">Visit Site</a>  • <a href="https://github.com/cozymaus/portfolio-2018-v2">Source Code</a></p>
+<p class="caption"><a href="{{ site.url }}/portfolio-2018-v2" target="_blank">Visit Site</a>  • <a href="https://github.com/cozymaus/portfolio-2018-v2">Source Code</a></p>
 
-<img src="https://cozymaus.com/img/portfoliomid2018desktop.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/portfoliomid2018desktop.png" alt="" class="img-fluid"/>
 
 <p class="caption">Yes, I made these just for this post.</p>
 
@@ -49,11 +49,11 @@ img: portfoliomid2018desktop.png
 
 <p>Here's the mobile site in action:</p>
 
-<img src="https://cozymaus.com/img/portfolio2018onmobile.gif" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/portfolio2018onmobile.gif" alt="" class="img-fluid"/>
 
 <p>Here's a <a href="https://addons.mozilla.org/en-US/firefox/addon/fireshot/" target="_blank">screenshot</a> of the entire landing page with graphics of all my best projects thus far:</p>
 
-<img src="https://cozymaus.com/img/portfoliobylizorg.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/portfoliobylizorg.png" alt="" class="img-fluid"/>
 
 <h3>The Future</h3>
 
