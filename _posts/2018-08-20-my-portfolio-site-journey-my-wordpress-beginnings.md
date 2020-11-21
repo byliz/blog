@@ -21,7 +21,7 @@ img: wordpressbeginningsicon.png
 
 <h4>Version 1.1.0 - Early 2017</h4>
 
-<img src="https://cozymaus.com/img/wpportfolio1.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/wpportfolio1.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://wordpress.org/themes/jinn/" target="_blank">View jinn Theme</a></p>
 
@@ -31,7 +31,7 @@ img: wordpressbeginningsicon.png
 
 <h4>Version 1.1.5 - Early 2017</h4>
 
-<img src="https://cozymaus.com/img/artportfoliositescreenshot.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/artportfoliositescreenshot.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://wordpress.org/themes/dara/" target="_blank">View Dara Theme</a></p>
 
@@ -39,29 +39,29 @@ img: wordpressbeginningsicon.png
 
 <h4>Version 1.2.0 - Early 2017</h4>
 
-<img src="https://cozymaus.com/img/PortfolioSite.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/PortfolioSite.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a rel="noreferrer noopener" href="https://wordpress.org/themes/simplenotes/" target="_blank">View Simplenotes Theme</a></p>
 
 <p>Soon, however, I went through a phase where I wanted a site that was as minimalistic as possible because I thought that was "in". I found this very elegant theme called <a href="https://wordpress.org/themes/simplenotes/" target="_blank">Simplenotes</a> by <a href="https://www.behance.net/carla-izumi-bamford" target="_blank">Carla Izumi Bamford</a>, who has many other interesting minimalist designs I recommend checking out for inspiration. Unfortunately her website appears to have gone down shortly before me writing this post, and it was one of the first to inspire me to try web development. I don't know what the situation is, but hopefully she comes back to continue sharing her work with us!</p>
 
-<img src="https://cozymaus.com/img/PortfolioSite3.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/PortfolioSite3.png" alt="" class="img-fluid"/>
 
 <p class="caption">My old about page, which I totally stole from Carla</p>
 
-<img src="https://cozymaus.com/img/PortfolioSite2.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/PortfolioSite2.png" alt="" class="img-fluid"/>
 
 <p class="caption">Experimenting with the Juicer social media feed plugin</p>
 
 <h4>Version 1.3.0 - Mid 2017</h4>
 
-<img src="https://cozymaus.com/img/wpportfolio3gk.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/wpportfolio3gk.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://wordpress.org/themes/gk-portfolio/" target="_blank">View GK Portfolio Theme</a></p>
 
 <p>I soon got bored of minimalism, so my third portfolio was much more focused on art because I wanted the focus this time to be images. I decided a simple grid-based theme would be the way to go, so I used the <a href="https://wordpress.org/themes/gk-portfolio/" target="_blank">GK Portfolio</a> theme by <a href="https://www.gavick.com/" target="_blank">GavickPro</a>. At this point, I learned how to make a child theme using some online tutorials and made my first child theme because of how how much I customized the theme's CSS.</p>
 
-<p>A tile-based theme still remains one of my favorite theme design ideas, so it has carried on to my <a href="https://cozymaus.github.io" target="_blank">current portfolio site</a> for which I have a lot of fun creating preview graphics.</p>
+<p>A tile-based theme still remains one of my favorite theme design ideas, so it has carried on to my <a href="{{ site.url }}" target="_blank">current portfolio site</a> for which I have a lot of fun creating preview graphics.</p>
 
 <h3>Conclusion</h3>
 
