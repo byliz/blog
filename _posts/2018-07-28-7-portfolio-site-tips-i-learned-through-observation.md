@@ -17,19 +17,19 @@ img: snapbythree-my-297409-unsplashedited.jpg
 
 <p>If you're not very well known, chances are your portfolio won't be getting a lot of traffic, and you don't need premium support. There are a few free hosting options out there that can be highly customized to suit various needs. Some free hosts I have used that can be customized professionally are <a href="https://pages.github.com" target="_blank">Github Pages</a>, <a href="http://x10hosting.com" target="_blank">x10Hosting</a>, and <a href="https://tumblr.com" target="_blank">Tumblr</a>. Note that these all have their limitations, but these can be worked around with some creative thinking.</p>
 
-<img src="https://cozymaus.com/img/GithubPagesPage.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/GithubPagesPage.png" alt="" class="img-fluid"/>
 
 <p class="caption">The Github Pages landing page</p>
 
 <p>Github Pages is great if you want to make a static blog portfolio, and although the setup for more advanced customization is a bit involved and requires some web programming experience and knowledge of their <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> site-generator, there are tools out there to make the set-up a little easier.</p>
 
-<img src="https://cozymaus.com/img/x10Hostingwebsite.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/x10Hostingwebsite.png" alt="" class="img-fluid"/>
 
 <p class="caption">The x10Hosting.com homepage</p>
 
 <p>x10Hosting, on the other hand, is both great for your own coded websites or an installed WordPress site since this host, unlike Github, also supports non-static languages like PHP. Its domain capabilities are worse than those of Github, and you have to sign in every month to avoid having your free account terminated, but nevertheless it's great for hosting WordPress sites and other code that is dependent on PHP so long as they don't receive a lot of traffic.</p>
 
-<img src="https://cozymaus.com/img/Tumblrwebsite.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/Tumblrwebsite.png" alt="" class="img-fluid"/>
 
 <p class="caption">The Tumblr.com homepage</p>
 
@@ -37,7 +37,7 @@ img: snapbythree-my-297409-unsplashedited.jpg
 
 <h4>Tip #2: Purchase a .com domain from a reputable domain name registrar.</h4>
 
-<img src="https://cozymaus.com/img/Namecheapwebsite.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/Namecheapwebsite.png" alt="" class="img-fluid"/>
 
 <p class="caption">The Namecheap.com homepage</p>
 
@@ -45,7 +45,7 @@ img: snapbythree-my-297409-unsplashedited.jpg
 
 <h4>Tip #3: Pick a professional yet memorable domain name.</h4>
 
-<img src="https://cozymaus.com/img/Simplebitswebsite.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/Simplebitswebsite.png" alt="" class="img-fluid"/>
 
 <p class="caption">Portfolio of designer and entrepreneur <a href="http://simplebits.com" target="_blank">Dan Cederholm</a></p>
 
@@ -55,7 +55,7 @@ img: snapbythree-my-297409-unsplashedited.jpg
 
 <h4>Tip #4: Be a minimalist.</h4>
 
-<img src="https://cozymaus.com/img/TaniaRasciawebsite.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/TaniaRasciawebsite.png" alt="" class="img-fluid"/>
 
 <p class="caption">Portfolio and blog of developer and designer <a href="http://taniarascia.com" target="_blank">Tania Rascia</a></p>
 
@@ -63,7 +63,7 @@ img: snapbythree-my-297409-unsplashedited.jpg
 
 <h4>Tip #5: Put only your best work.</h4>
 
-<img src="https://cozymaus.com/img/eychansite.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/eychansite.png" alt="" class="img-fluid"/>
 
 <p class="caption">Portfolio of illustrator and comic artist <a href="http://eychan.org" target="_blank">Emily Y. Chan</a></p>
 
@@ -71,7 +71,7 @@ img: snapbythree-my-297409-unsplashedited.jpg
 
 <h4>Tip #6: Put only relevant work.</h4>
 
-<img src="https://cozymaus.com/img/ArielBenincawebsite.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/ArielBenincawebsite.png" alt="" class="img-fluid"/>
 
 <p class="caption">Portfolio of front end developer and graphic designer <a href="http://arielbeninca.com" target="_blank">Ariel Beninca</a></p>
 
@@ -79,7 +79,7 @@ img: snapbythree-my-297409-unsplashedited.jpg
 
 <h4>Tip #7: Find inspiration.</h4>
 
-<img src="https://cozymaus.com/img/awwwardswebsite.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/awwwardswebsite.png" alt="" class="img-fluid"/>
 
 <p class="caption">Award-winning websites on awwwards.com</p>
 
