@@ -13,6 +13,6 @@ title: Archives |
     <h2 id="{{ currentdate }}">{{ currentdate }}</h2>
     {% assign date = currentdate %} 
   {% endif %}
-    <p><a href="https://cozymaus.com/blog{{ post.url }}">{{ post.title }}</a></p>
+    <p><a href="{{ site.url }}/blog{{ post.url }}">{{ post.title }}</a></p>
 {% endfor %}
 
