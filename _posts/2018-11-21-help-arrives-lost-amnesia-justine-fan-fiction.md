@@ -37,7 +37,7 @@ img: Naked_Eyes_LP.jpg
 
 <p>One explanation I have is that I just liked the song, and I thought it would take a while for the characters to forget their trauma. Another explanation could be that the name of the band is Naked Eyes, and the suitors don't have eyes. While writing this post, I noticed that the North American and Japanese cover art for the album that this song is in, "Burning Bridges," has two beautiful disembodied green eyes staring back at the viewer. Suddenly I am reminded how some coincidences in writing stories can seem to have more meaning than they really do.</p>
 
-<img src="https://cozymaus.com/img/Naked_Eyes_LP.jpg" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/Naked_Eyes_LP.jpg" alt="" class="img-fluid"/>
 
 <h4>The Crazy Story of How I Lost it</h4>
 
