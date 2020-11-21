@@ -19,13 +19,13 @@ img: firstportfolio.png
 
 <h4>Version 2.1.0 - Mid 2017</h4>
 
-<img src="https://cozymaus.com/img/firstportfoliofromscratchss.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/firstportfoliofromscratchss.png" alt="" class="img-fluid"/>
 
 <p>I think this is the earliest screenshot I have from my early attempts at making a website with a proper design from scratch. I tried to go with a minimalist modern design with lots of white space again, but I wasn't happy with the loose and sloppy way the pages behaved. In retrospect, the index page does look pretty cool, and if I only still had the source code I would share it with you over on my Github. In fact, I may try to remake it sometime. I do recall that I used bootstrap to center the elements on the page and make the buttons, so this places this design somewhere in mid to late 2017.</p>
 
 <h4 id="first-portfolio">Version 2.2.0 - Late 2017</h4>
 
-<img src="https://cozymaus.com/img/firstportfolio.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/firstportfolio.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://cozymaus.github.io/portfolio-2017" target="_blank">Visit Site</a> • <a href="https://github.com/cozymaus/portfolio-2017" target="_blank">Source Code</a></p>
 
@@ -33,17 +33,17 @@ img: firstportfolio.png
 
 <p>This theme is a trendy one page theme that looks fabulous on mobile with its sliding menu. Because at this point I was learning about the importance of responsiveness in modern web design, I took apart and reassembled this code with some modifications to learn further. Its simplicity makes it best for a resume-style personal website.</p>
 
-<img src="https://cozymaus.com/img/togglesshow.gif" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/togglesshow.gif" alt="" class="img-fluid"/>
 
 <p>With this theme I got to experiment with a little bit of Javascript and jQuery, making my project descriptions toggle on and off. I actually started making tons of progress GIFs at this point with <a href="https://www.screentogif.com/">ScreenToGif</a>, and it's thanks to that that I'm able to recover bits of my progress to make this blog!</p>
 
 <p>Here's a screenshot of the whole site using the <a href="https://addons.mozilla.org/en-US/firefox/addon/fireshot/" target="_blank">FireShot FireFox extension</a>:</p>
 
-<img src="https://cozymaus.com/img/portfolioearly2017.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/portfolioearly2017.png" alt="" class="img-fluid"/>
 
 <h4 id="second-portfolio">Version 2.3.0 - Late 2017</h4>
 
-<img src="https://cozymaus.com/img/secondportfolio.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/secondportfolio.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://cozymaus.github.io/portfolio-2017-v2" target="_blank">Visit Site</a>  • <a href="https://github.com/cozymaus/portfolio-2017-v2" target="_blank">Source Code</a></p>
 
@@ -51,25 +51,25 @@ img: firstportfolio.png
 
 <p>This was the result courtesy FireShot, with a little editing because the fixed footer really botched the screenshot:</p>
 
-<img src="https://cozymaus.com/img/portfoliolate20172.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/portfoliolate20172.png" alt="" class="img-fluid"/>
 
-<img src="https://cozymaus.com/img/smoooooth.gif" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/smoooooth.gif" alt="" class="img-fluid"/>
 
 <p class="caption">Having fun with image opacity.</p>
 
 <p>The landing page and other pages used a different design, however. I tried to do something fancy with a black background with an inner white border and gold lettering. When you clicked on the white arrow, the landing page would hide, change the colors of my navigation links, and show my work page below it. </p>
 
-<img src="https://cozymaus.com/img/portfoliolate2017.png" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/portfoliolate2017.png" alt="" class="img-fluid"/>
 
 <p>And if you mouse over my initials...</p>
 
-<img src="https://cozymaus.com/img/LB.gif" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/LB.gif" alt="" class="img-fluid"/>
 
 <p>You get a smug little froggy smile! 🐸 </p>
 
 <p>The other special thing I tried to do for this version of my portfolio was attempt to make a system of terms, prices, and examples for illustration and web design commissions that never really panned out. The system was too complicated because I tried using these tabs that would swap the content on the screen using Javascript and also my own gallery and preview image script.</p>
 
-<img src="https://cozymaus.com/img/newgallery.gif" alt="" class="img-fluid"/>
+<img src="{{ site.url }}/img/newgallery.gif" alt="" class="img-fluid"/>
 
 <h3>Conclusion</h3>
 
