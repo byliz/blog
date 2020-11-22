@@ -24,7 +24,7 @@ img: gametimeline.png
 
 <h2>DCIM Portfolio Website</h2>
 
-<p>My website for my DCIM minor class was completed, and you can check it out here: <a href="{{ site.url }}/dcim" target="_blank">{{ site.url }}/DCIM</a>. Honestly by the time I'm writing this, I'd say that I've improved my design skills even more and would have been more creative with my design choices. One thing I liked that I did was use jQuery to filter projects based on the skills I used in those projects.</p>
+<p>My website for my DCIM minor class was completed, and you can check it out here: {{ site.url }}/DCIM. Honestly by the time I'm writing this, I'd say that I've improved my design skills even more and would have been more creative with my design choices. One thing I liked that I did was use jQuery to filter projects based on the skills I used in those projects.</p>
 
 <h2>Theme Store</h2>
 
