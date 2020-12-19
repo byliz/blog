@@ -1,4 +1,15 @@
-		
+---
+layout: post
+title: How Languages Shaped My Life
+date: 2020-02-16
+categories:
+  - personal
+comments: true
+tags:
+excerpt: "i am bilingual in spanish and english. i have lived in the united states since i was almost three years old, but i was born an only child in cuba to cuban parents. by the age of two i had already been speaking spanish, even correcting peoples' grammar. my mom told me that one time she laughed when someone said they were going to "eat" ice cream (comer helado), and i told them they were going to in fact "drink" ice cream (tomar helado), which is the correct term in spanish."
+img: hippocrene-german.jpeg
+---
+
 <p>i am bilingual in spanish and english. i have lived in the united states since i was almost three years old, but i was born an only child in cuba to cuban parents. by the age of two i had already been speaking spanish, even correcting peoples’ grammar. my mom told me that one time she laughed when someone said they were going to “eat” ice cream (<em>comer helado</em>), and i told them they were going to in fact “drink” ice cream (<em>tomar helado</em>), which is the correct term in spanish.</p>
 
 <p>in the united states, i turned three living with my two parents in the spacious basement of an older lady’s house. i don’t think i had any playmates for a while, so i spoke spanish to my parents and learned english by watching cartoons on tv. when i got a little older, relatives would also sometimes bring me books written in english and spanish, so i was able to practice reading and writing in spanish in my free time.</p>
