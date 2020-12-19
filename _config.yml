@@ -16,7 +16,7 @@ language:           en-US
 
 # Pagination Settings
 paginate_path: "/pg-:num/"
-paginate: 5
+paginate: 3
 
 # Disqus Comments
 disqus:
