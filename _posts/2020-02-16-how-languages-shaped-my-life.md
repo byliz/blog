@@ -6,7 +6,8 @@ categories:
   - personal
 comments: true
 tags:
-excerpt: "i am bilingual in spanish and english. i have lived in the united states since i was almost three years old, but i was born an only child in cuba to cuban parents. by the age of two i had already been speaking spanish, even correcting peoples' grammar. my mom told me that one time she laughed when someone said they were going to "eat" ice cream (comer helado), and i told them they were going to in fact "drink" ice cream (tomar helado), which is the correct term in spanish."
+  - personal
+excerpt: "Here is how languages shaped my life."
 img: hippocrene-german.jpeg
 ---
 
@@ -32,7 +33,8 @@ img: hippocrene-german.jpeg
 
 <figure class="wp-block-embed is-type-rich is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <div class="jetpack-video-wrapper"><div class="embed-vimeo"><iframe title="Nena - 99 Luftballons 2009 (HD)" src="https://player.vimeo.com/video/98751292?dnt=1&amp;app_id=122963" allow="autoplay; fullscreen" allowfullscreen="" data-ratio="0.5629228687415426" data-width="739" data-height="416" style="display: block; margin: 0px; width: 739px; height: 416px;" frameborder="0"></iframe></div></div>
-</div><figcaption>the reason i started learning german</figcaption></figure>
+</div></figure>
+<p class="caption">the reason i started learning german</p>
 
 
 
@@ -40,7 +42,8 @@ img: hippocrene-german.jpeg
 
 
 
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/cozymaus/img/master/hippocrene-german.jpeg" alt=""><figcaption>my precious personal copy</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/cozymaus/img/master/hippocrene-german.jpeg" alt=""></figure>
+<p class="caption">my precious personal copy</p>
 
 
 
