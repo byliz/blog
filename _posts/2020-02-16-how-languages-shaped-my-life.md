@@ -42,7 +42,7 @@ img: hippocrene-german.jpeg
 
 
 
-<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/cozymaus/img/master/hippocrene-german.jpeg" alt=""></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/lizberberena/img/master/hippocrene-german.jpeg" alt=""></figure>
 <p class="caption">my precious personal copy</p>
 
 
