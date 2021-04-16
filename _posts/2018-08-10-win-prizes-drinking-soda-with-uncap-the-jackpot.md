@@ -47,9 +47,9 @@ img: Jarritos.png
 
 <img src="{{ site.url }}/img/uncapthejackpot.png" alt="" class="img-fluid"/>
 
-<p class="caption">Redeem your prizes at <a href="http://www.myprizes.net" target="_blank">www.myprizes.net</a></p>
+<p class="caption">Redeem your prizes at myprizes.net</p>
 
-<p>Once you have your 7-digit <strong>one-time use </strong>code under the cap of your Novamex beverage, visit the website <a href="http://www.myprizes.net" target="_blank">MyPrizes.net</a> to instantly check your code and see what you won. Make sure you <strong>save the confirmation email that you are sent as well as your cap</strong>! Directions for receiving your prize will be seen when you check your code. Cash prizes are sent to your address in the form of a check within a few weeks, and discount prizes are available immediately. Don't forget that there's a l<strong>imit of 2 entries per email address per day</strong> and you must only use one email address or risk the loss of your prize.</p>
+<p>Once you have your 7-digit <strong>one-time use </strong>code under the cap of your Novamex beverage, visit the website MyPrizes.net to instantly check your code and see what you won. Make sure you <strong>save the confirmation email that you are sent as well as your cap</strong>! Directions for receiving your prize will be seen when you check your code. Cash prizes are sent to your address in the form of a check within a few weeks, and discount prizes are available immediately. Don't forget that there's a l<strong>imit of 2 entries per email address per day</strong> and you must only use one email address or risk the loss of your prize.</p>
 
 <h3>The Deadline</h3>
 
@@ -57,16 +57,16 @@ img: Jarritos.png
 
 <h3>Winning Without Purchasing?</h3>
 
-<p>Something I discovered while reading the terms is that there is a way to win without even purchasing a beverage. <a href="https://www.underthecapamoe.com/" target="_blank">UndertheCapAMOE.com</a> is where you can get two codes per email per day that you can redeem on WinPrizes.net. You have to answer a few questions about how you enjoy your Novamex beverage, so <strong>answer truthfully</strong> and <strong>don't use more than one email</strong>! Also, make sure to <strong>save your confirmation email and the email containing your winning AMOE code</strong>!</p>
+<p>Something I discovered while reading the terms is that there is a way to win without even purchasing a beverage. UndertheCapAMOE.com is where you can get two codes per email per day that you can redeem on WinPrizes.net. You have to answer a few questions about how you enjoy your Novamex beverage, so <strong>answer truthfully</strong> and <strong>don't use more than one email</strong>! Also, make sure to <strong>save your confirmation email and the email containing your winning AMOE code</strong>!</p>
 
 <p>Good luck playing and enjoy your drink!</p>
 
 <h4>Resources</h4>
 
 <ul>
-	<li><a href="https://www.myprizes.net/" target="_blank">MyPrizes.net</a> (Uncap the Jackpot website)</li>
-	<li><a href="https://www.myprizes.net/terms.htm" target="_blank">Official Game Rules</a> in English and Spanish</li>
-	<li><a href="https://www.underthecapamoe.com/" target="_blank">UndertheCapAMOE.com</a> (Alternate means of entry website)</li>
+	<li>MyPrizes.net (Uncap the Jackpot website)</li>
+	<li>Official Game Rules in English and Spanish</li>
+	<li>UndertheCapAMOE.com (Alternate means of entry website)</li>
 </ul>
 
 <p>Image credits:</p>
