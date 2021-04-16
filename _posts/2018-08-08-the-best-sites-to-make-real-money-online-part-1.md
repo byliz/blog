@@ -65,7 +65,7 @@ img: domenico-loia-604718-unsplash.jpg
 <ul>
 	<li><a href="https://usertesting.com" target="_blank">UserTesting.com</a></li>
 	<li><a href="https://www.mturk.com/" target="_blank">Amazon Mechanical Turk</a> (Mturk)</li>
-	<li><a href="{{ site.url }}/blog/posts/the-best-sites-to-make-real-money-online-part-2">Part 2 in this series</a></li>
+	<li><a href="{{ site.url }}/2018-blog/posts/the-best-sites-to-make-real-money-online-part-2">Part 2 in this series</a></li>
 </ul>
 
 <p>Image credits:</p>
