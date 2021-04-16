@@ -73,7 +73,7 @@ img: kevin-bhagat-343433-unsplash.jpg
 
 <ul>
 	<li><a href="https://www.rev.com/blog/productivity-tips-full-time-revver/" target="_blank">"Productivity Tips from a Full-Time Revver with a $500 Weekly Goal"</a> by Jacob Olsen on Rev.com</li>
-	<li><a href="{{ site.url }}/blog/posts/the-best-sites-to-make-real-money-online-part-1">"The Best Sites to Make Real Money Online [Part 1]"</a> by me on LizLorena.com/blog</li>
+	<li><a href="{{ site.url }}/2018-blog/posts/the-best-sites-to-make-real-money-online-part-1">"The Best Sites to Make Real Money Online [Part 1]"</a> by me on LizLorena.com/blog</li>
 </ul>
 
 <p>Image credits:</p>
