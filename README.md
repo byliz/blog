@@ -1,2 +1,2 @@
 # blog
-📖 lizlorena.com/blog | my former blog made from scratch using html, css, boostrap, and jekyll. this was originally a wordpress site that I recreated by hand.
+This old blog was originally a WordPress child theme of the Savona theme by Optima Themes, but I recreated the entire website from scratch into a static website generated with Jekyll and made a few modifications. I no longer use this blog, but it was an ambitious project that showed me I enjoy developing websites more than writing blog posts!
