@@ -12,7 +12,9 @@ excerpt: "In this tutorial, I'll be showing you where I find the royalty-free mu
 img: musicthumbnail.png
 ---
 
+<!--
 <iframe class="video" src="https://www.youtube.com/embed/6rhj81gAVyM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
 
 <p><first-letter>I</first-letter>n this tutorial, I'll be showing you where I find the royalty-free music that I and many others use in our YouTube videos. I also show you how to properly credit the music. This video is in both Spanish and English!</p>
 
