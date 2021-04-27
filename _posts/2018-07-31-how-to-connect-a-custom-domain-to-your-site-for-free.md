@@ -9,7 +9,9 @@ excerpt: "Making sure your network of online profiles and sites are named consis
 img: tyler-nix-590905-unsplash2.jpg
 ---
 
+<!--
 <iframe class="video" src="https://www.youtube.com/embed/qAHwwrGE4sA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
 
 <p><first-letter>M</first-letter>aking sure your network of online profiles and sites are named consistently is important for your brand, especially if you are a professional. The process of connecting a custom domain or subdomain to your blog or website may seem challenging for a beginner, but thankfully it's easier than you may think. The most complicated aspect of it is that the way you do it varies depending on your host and domain name registrar (DNR). I only have experience working with <a href="http://namecheap.com" target="_blank">Namecheap</a>, so for this post I will be explaining how to connect domains and subdomains from this DNR to my favorite free hosting providers <a href="https://tumblr.com" target="_blank">Tumblr</a>, <a href="http://pages.github.com" target="_blank">Github Pages</a>, and <a href="http://x10hosting.com">x10Hosting.com</a>.</p>
 
