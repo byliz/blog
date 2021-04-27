@@ -9,7 +9,9 @@ excerpt: "Everyone loves making money, and everyone loves making money even more
 img: domenico-loia-604718-unsplash.jpg
 ---
 
+<!--
 <iframe class="video" src="https://www.youtube.com/embed/2e-uLBC5k0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
 
 <p><first-letter>E</first-letter>veryone loves making money, and everyone loves making money even more if they can make it from the comfort of their own home. When I say that these are the "best" sites and apps for getting some money on the side, I mean that they are legitimate, simple to set up, and consistent in their payouts. These are just a few websites that worked for me, and I would recommend them to anyone because these are no bullshit sites that don't sell your information, spam your email, or scam you for your work.</p>
 
