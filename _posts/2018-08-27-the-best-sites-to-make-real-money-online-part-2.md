@@ -9,7 +9,9 @@ excerpt: "Welcome to the second part of my list of the best sites to make real m
 img: kevin-bhagat-343433-unsplash.jpg
 ---
 
+<!--
 <iframe class="video" src="https://www.youtube.com/embed/2e-uLBC5k0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
 
 <p><first-letter>W</first-letter>elcome to the second part of my list of the best sites to make real money online! For this part, I've found two other legitimate ways of making money online recently. Note that for this list, the jobs require a lengthy application or qualification process in order to be accepted to start working with the company, but that shouldn't stop you from trying because the rewards outnumber those of the <a href="{{ site.url }}/2018-blog/posts/the-best-sites-to-make-real-money-online-part-1">first two sites</a> on this list.</p>
 
