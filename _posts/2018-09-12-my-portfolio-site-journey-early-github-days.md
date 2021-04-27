@@ -9,7 +9,9 @@ excerpt: "Welcome to part 2 of my portfolio site journey! It sure took a while t
 img: firstportfolio.png
 ---
 
+<!--
 <iframe class="video" src="https://www.youtube.com/embed/V7bLa6pe-0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
 
 <p><first-letter>W</first-letter>elcome to part 2 of my portfolio site journey! It sure took a while to get this one out. I had some other blog posts I wanted to write, and college just started up again for me. This part focuses on the first half of my Github days when I finally started making my portfolio sites using code.</p>
 
