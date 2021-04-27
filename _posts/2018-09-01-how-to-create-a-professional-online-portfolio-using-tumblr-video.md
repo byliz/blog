@@ -9,7 +9,9 @@ excerpt: "Finally releasing the first video in my series of video tutorials! The
 img: tumblrprofessionalwebsite.png
 ---
 
+<!--
 <iframe class="video" src="https://www.youtube.com/embed/5MwFGX-lhaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
 
 <p><first-letter>F</first-letter>inally releasing the first video in my series of video tutorials! The Internet has made showcasing your work on your own website a smart move for your career no matter what field you’re in, so in this video I show you how to make a professional online portfolio using <a href="https://tumblr.com" target="_blank">Tumblr.com</a> and why I think it could be the perfect platform for beginners who don't want to get their hands dirty with more advanced hosting and development tools! I go over how to upload content to<em> Tumblr</em>, the three ways you can install themes, and briefly show you the theme customizer. In the video I also briefly show you how to change the settings of your blog to make it more professional such as enabling messages, hiding the posts you like and the people you follow, and connecting a custom domain.</p>
  
