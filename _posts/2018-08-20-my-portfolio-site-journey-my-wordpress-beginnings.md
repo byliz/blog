@@ -9,7 +9,9 @@ excerpt: "Something all web designers or developers can relate to is the need to
 img: wordpressbeginningsicon.png
 ---
 
+<!--
 <iframe class="video" src="https://www.youtube.com/embed/IGOW13_v0lE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
 
 <p><first-letter>S</first-letter>omething all web designers or developers can relate to is the need to have the perfect portfolio website. I am no stranger to this nagging feeling, so I have also gone through numerous iterations of my website in the past three or so years since I took a deep interest in programming. In this series of posts, I'm going to take a trip down memory lane to show you (almost) every stage of what my portfolio site looked like throughout the years - for fun and also because it may reassure you that you're not alone in this struggle to create your perfect personal website.</p>
 
