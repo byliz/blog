@@ -9,7 +9,9 @@ excerpt: "If you're like me, then you probably can't stop looking for ways to ma
 img: snapbythree-my-297409-unsplashedited.jpg
 ---
 
+<!--
 <iframe class="video" src="https://www.youtube.com/embed/MSgsnFs9H48" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
 
 <p><first-letter>I</first-letter>f you're like me, then you probably can't stop looking for ways to make your professional brand look better online, and a solid way to show off your brand online is with an online portfolio showing off your work and projects. Doing this on a budget, however, is probably a top priority while you go through college. These are just seven things I've learned while observing professionals online that have allowed me to make my portfolio sites for little to nothing.</p>
 
