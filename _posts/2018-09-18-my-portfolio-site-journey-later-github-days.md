@@ -9,7 +9,9 @@ excerpt: "Welcome to part 3 of my portfolio site journey! There will probably be
 img: portfoliomid2018desktop.png
 ---
 
+<!--
 <iframe class="video" src="https://www.youtube.com/embed/QZ9LLsWWMtY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
 
 <p><first-letter>W</first-letter>elcome to part 3 of my portfolio site journey! There will probably be many more parts in the future, but these are the most recent and current versions of my portfolio site. I hope you've found my documenting of my learning journey helpful in some way, and I hope that you start or continue your own!</p>
 
